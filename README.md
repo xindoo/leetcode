@@ -371,7 +371,7 @@ leetcode刷题记录
 - [x] 368 Largest Divisible Subset    Medium  
 - [ ] 369 Plus One Linked List        Medium  
 - [ ] 370 Range Addition      Medium  
-- [ ] 371 Sum of Two Integers     Easy    
+- [x] 371 Sum of Two Integers     Easy    
 - [ ] 372 Super Pow       Medium  
 - [ ] 373 Find K Pairs with Smallest Sums     Medium  
 - [ ] 374 Guess Number Higher or Lower    Easy    
