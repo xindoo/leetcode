@@ -5,3 +5,4 @@ int getSum(int a, int b) {
     int carry = (a & b) << 1;  
     return getSum(sum, carry);
 }
+//test
