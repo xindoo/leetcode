@@ -372,7 +372,7 @@ leetcode刷题记录
 - [ ] 369 Plus One Linked List        Medium  
 - [ ] 370 Range Addition      Medium  
 - [x] 371 Sum of Two Integers     Easy    
-- [ ] 372 Super Pow       Medium  
+- [x] 372 Super Pow       Medium  
 - [ ] 373 Find K Pairs with Smallest Sums     Medium  
 - [ ] 374 Guess Number Higher or Lower    Easy    
 - [ ] 375 Guess Number Higher or Lower II     Medium  
