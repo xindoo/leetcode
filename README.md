@@ -374,7 +374,7 @@ leetcode刷题记录
 - [x] 371 Sum of Two Integers     Easy    
 - [x] 372 Super Pow       Medium  
 - [ ] 373 Find K Pairs with Smallest Sums     Medium  
-- [ ] 374 Guess Number Higher or Lower    Easy    
+- [x] 374 Guess Number Higher or Lower    Easy    
 - [ ] 375 Guess Number Higher or Lower II     Medium  
 - [ ] 376 Wiggle Subsequence      Medium  
 - [ ] 377 Combination Sum IV      Medium  
