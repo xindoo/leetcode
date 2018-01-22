@@ -377,7 +377,7 @@ leetcode刷题记录
 - [x] 374 Guess Number Higher or Lower    Easy    
 - [ ] 375 Guess Number Higher or Lower II     Medium  
 - [ ] 376 Wiggle Subsequence      Medium  
-- [ ] 377 Combination Sum IV      Medium  
+- [x] 377 Combination Sum IV      Medium  
 - [ ] 378 Kth Smallest Element in a Sorted Matrix     Medium  
 - [ ] 379 Design Phone Directory      Medium  
 - [ ] 380 Insert Delete GetRandom O(1)    Medium  
