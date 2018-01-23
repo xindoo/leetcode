@@ -387,7 +387,7 @@ leetcode刷题记录
 - [ ] 384 Shuffle an Array    Medium  
 - [ ] 385 Mini Parser     Medium  
 - [ ] 386 Lexicographical Numbers     Medium  
-- [ ] 387 First Unique Character in a String      Easy    
+- [x] 387 First Unique Character in a String      Easy    
 - [ ] 388 Longest Absolute File Path      Medium  
 - [ ] 389 Find the Difference     Easy    
 - [ ] 390 Elimination Game    Medium  
