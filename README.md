@@ -389,7 +389,7 @@ leetcode刷题记录
 - [ ] 386 Lexicographical Numbers     Medium  
 - [x] 387 First Unique Character in a String      Easy    
 - [ ] 388 Longest Absolute File Path      Medium  
-- [ ] 389 Find the Difference     Easy    
+- [x] 389 Find the Difference     Easy    
 - [ ] 390 Elimination Game    Medium  
 - [ ] 391 Perfect Rectangle       Hard    
 - [ ] 392 Is Subsequence      Medium  
