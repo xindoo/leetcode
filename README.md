@@ -413,7 +413,7 @@ leetcode刷题记录
 - [ ] 410 Split Array Largest Sum     Hard    
 - [ ] 411 Minimum Unique Word Abbreviation        Hard    
 - [ ] 412 Fizz Buzz       Easy    
-- [ ] 413 Arithmetic Slices       Medium  
+- [x] 413 Arithmetic Slices       Medium  
 - [x] 414 Third Maximum Number    Easy    
 - [ ] 415 Add Strings     Easy    
 - [x] 416 Partition Equal Subset Sum      Medium  
