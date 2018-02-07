@@ -134,7 +134,7 @@ leetcode刷题记录
 - [ ] 131 Palindrome Partitioning     Medium  
 - [ ] 132 Palindrome Partitioning II      Hard    
 - [ ] 133 Clone Graph     Medium  
-- [ ] 134 Gas Station     Medium  
+- [x] 134 Gas Station     Medium  
 - [ ] 135 Candy       Hard    
 - [x] 136 Single Number       Easy    
 - [x] 137 Single Number II    Medium  
