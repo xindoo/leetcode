@@ -8,7 +8,7 @@ leetcode刷题记录
 - [x] 5   Longest Palindromic Substring       Medium  
 - [x] 6   ZigZag Conversion       Medium  
 - [x] 7   Reverse Integer     Easy    
-- [ ] 8   String to Integer (atoi)    Medium  
+- [x] 8   String to Integer (atoi)    Medium  
 - [x] 9   Palindrome Number       Easy    
 - [ ] 10  Regular Expression Matching     Hard    
 - [x] 11  Container With Most Water       Medium  
