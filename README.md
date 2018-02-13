@@ -401,7 +401,7 @@ leetcode刷题记录
 - [ ] 398 Random Pick Index       Medium  
 - [ ] 399 Evaluate Division       Medium  
 - [ ] 400 Nth Digit       Easy    
-- [ ] 401 Binary Watch    Easy    
+- [x] 401 Binary Watch    Easy    
 - [ ] 402 Remove K Digits     Medium  
 - [ ] 403 Frog Jump       Hard    
 - [ ] 404 Sum of Left Leaves      Easy    
