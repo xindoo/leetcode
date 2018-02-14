@@ -17,7 +17,7 @@ leetcode刷题记录
 - [x] 14  Longest Common Prefix       Easy    
 - [x] 15  3Sum    Medium  
 - [x] 16  3Sum Closest    Medium  
-- [ ] 17  Letter Combinations of a Phone Number       Medium  
+- [x] 17  Letter Combinations of a Phone Number       Medium  
 - [ ] 18  4Sum    Medium  
 - [x] 19  Remove Nth Node From End of List    Medium  
 - [x] 20  Valid Parentheses       Easy    
