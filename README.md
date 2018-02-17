@@ -66,7 +66,7 @@ leetcode刷题记录
 - [x] 63  Unique Paths II     Medium  
 - [ ] 64  Minimum Path Sum    Medium  
 - [ ] 65  Valid Number    Hard    
-- [ ] 66  Plus One    Easy    
+- [x] 66  Plus One    Easy    
 - [x] 67  Add Binary      Easy    
 - [ ] 68  Text Justification      Hard    
 - [x] 69  Sqrt(x)     Easy    
