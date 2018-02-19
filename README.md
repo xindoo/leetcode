@@ -160,7 +160,7 @@ leetcode刷题记录
 - [ ] 157 Read N Characters Given Read4       Easy    
 - [ ] 158 Read N Characters Given Read4 II - Call multiple times      Hard    
 - [ ] 159 Longest Substring with At Most Two Distinct Characters      Hard    
-- [ ] 160 Intersection of Two Linked Lists    Easy    
+- [x] 160 Intersection of Two Linked Lists    Easy    
 - [ ] 161 One Edit Distance       Medium  
 - [ ] 162 Find Peak Element       Medium  
 - [ ] 163 Missing Ranges      Medium  
