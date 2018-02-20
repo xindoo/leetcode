@@ -167,7 +167,7 @@ leetcode刷题记录
 - [ ] 164 Maximum Gap     Hard    
 - [ ] 165 Compare Version Numbers     Medium  
 - [ ] 166 Fraction to Recurring Decimal       Medium  
-- [ ] 167 Two Sum II - Input array is sorted      Easy    
+- [x] 167 Two Sum II - Input array is sorted      Easy    
 - [ ] 168 Excel Sheet Column Title    Easy    
 - [ ] 169 Majority Element    Easy    
 - [ ] 170 Two Sum III - Data structure design         Easy    
