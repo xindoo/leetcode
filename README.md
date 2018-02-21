@@ -295,7 +295,7 @@ leetcode刷题记录
 - [x] 292 Nim Game    Easy    
 - [ ] 293 Flip Game       Easy    
 - [ ] 294 Flip Game II        Medium  
-- [ ] 295 Find Median from Data Stream    Hard    
+- [x] 295 Find Median from Data Stream    Hard    
 - [ ] 296 Best Meeting Point      Hard    
 - [ ] 297 Serialize and Deserialize Binary Tree       Hard    
 - [ ] 298 Binary Tree Longest Consecutive Sequence        Medium  
