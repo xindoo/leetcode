@@ -169,7 +169,7 @@ leetcode刷题记录
 - [ ] 166 Fraction to Recurring Decimal       Medium  
 - [x] 167 Two Sum II - Input array is sorted      Easy    
 - [ ] 168 Excel Sheet Column Title    Easy    
-- [ ] 169 Majority Element    Easy    
+- [x] 169 Majority Element    Easy    
 - [ ] 170 Two Sum III - Data structure design         Easy    
 - [ ] 171 Excel Sheet Column Number       Easy    
 - [ ] 172 Factorial Trailing Zeroes       Easy    
