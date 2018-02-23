@@ -190,7 +190,7 @@ leetcode刷题记录
 - [ ] 187 Repeated DNA Sequences      Medium  
 - [ ] 188 Best Time to Buy and Sell Stock IV      Hard    
 - [ ] 189 Rotate Array    Easy    
-- [ ] 190 Reverse Bits    Easy    
+- [x] 190 Reverse Bits    Easy    
 - [x] 191 Number of 1 Bits    Easy    
 - [x] 192 Word Frequency      Medium  
 - [ ] 193 Valid Phone Numbers     Easy    
