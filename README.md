@@ -232,7 +232,7 @@ leetcode刷题记录
 - [ ] 229 Majority Element II     Medium  
 - [x] 230 Kth Smallest Element in a BST       Medium  
 - [x] 231 Power of Two    Easy    
-- [ ] 232 Implement Queue using Stacks    Easy    
+- [x] 232 Implement Queue using Stacks    Easy    
 - [ ] 233 Number of Digit One     Hard    
 - [ ] 234 Palindrome Linked List      Easy    
 - [x] 235 Lowest Common Ancestor of a Binary Search Tree      Easy    
