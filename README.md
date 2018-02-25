@@ -415,7 +415,7 @@ leetcode刷题记录
 - [ ] 412 Fizz Buzz       Easy    
 - [x] 413 Arithmetic Slices       Medium  
 - [x] 414 Third Maximum Number    Easy    
-- [ ] 415 Add Strings     Easy    
+- [x] 415 Add Strings     Easy    
 - [x] 416 Partition Equal Subset Sum      Medium  
 - [ ] 417 Pacific Atlantic Water Flow     Medium  
 - [ ] 418 Sentence Screen Fitting         Medium  
