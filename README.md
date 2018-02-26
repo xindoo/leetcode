@@ -182,7 +182,7 @@ leetcode刷题记录
 - [ ] 179 Largest Number      Medium  
 - [ ] 180 Consecutive Numbers     Medium  
 - [x] 181 Employees Earning More Than Their Managers      Easy    
-- [ ] 182 Duplicate Emails    Easy    
+- [x] 182 Duplicate Emails    Easy    
 - [ ] 183 Customers Who Never Order       Easy    
 - [ ] 184 Department Highest Salary       Medium  
 - [ ] 185 Department Top Three Salaries       Hard    
