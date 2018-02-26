@@ -181,7 +181,7 @@ leetcode刷题记录
 - [ ] 178 Rank Scores     Medium  
 - [ ] 179 Largest Number      Medium  
 - [ ] 180 Consecutive Numbers     Medium  
-- [ ] 181 Employees Earning More Than Their Managers      Easy    
+- [x] 181 Employees Earning More Than Their Managers      Easy    
 - [ ] 182 Duplicate Emails    Easy    
 - [ ] 183 Customers Who Never Order       Easy    
 - [ ] 184 Department Highest Salary       Medium  
