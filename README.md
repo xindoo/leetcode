@@ -680,21 +680,21 @@ leetcode刷题记录
 - [ ] 713 Subarray Product Less Than K    Medium  
 - [ ] 714 Best Time to Buy and Sell Stock with Transaction Fee   New  Medium  
 - [ ] 715 Range Module   New  Hard    
-716	Max Stack    	Hard
-717	1-bit and 2-bit Characters    	Easy
-718	Maximum Length of Repeated Subarray    	Medium
-719	Find K-th Smallest Pair Distance    	Hard
-720	Longest Word in Dictionary    	Easy
-721	Accounts Merge    	Medium
-722	Remove Comments    	Medium
-723	Candy Crush    	Medium
-724	Find Pivot Index    	Easy
-725	Split Linked List in Parts    	Medium
-726	Number of Atoms    	Hard
-727	Minimum Window Subsequence    	Hard
-728	Self Dividing Numbers    	Easy
-729	My Calendar I    	Medium
-730	Count Different Palindromic Subsequences    	Hard
+- [ ] 716 Max Stack    	Hard
+- [ ] 717 1-bit and 2-bit Characters    	Easy
+- [ ] 718 Maximum Length of Repeated Subarray    	Medium
+- [ ] 719 Find K-th Smallest Pair Distance    	Hard
+- [ ] 720	Longest Word in Dictionary    	Easy
+- [ ] 721	Accounts Merge    	Medium
+- [ ] 722	Remove Comments    	Medium
+- [ ] 723	Candy Crush    	Medium
+- [ ] 724	Find Pivot Index    	Easy
+- [ ] 725	Split Linked List in Parts    	Medium
+- [ ] 726	Number of Atoms    	Hard
+- [ ] 727	Minimum Window Subsequence    	Hard
+- [ ] 728	Self Dividing Numbers    	Easy
+- [ ] 729	My Calendar I    	Medium
+- [ ] 730	Count Different Palindromic Subsequences    	Hard
 731	My Calendar II    	Medium
 732	My Calendar III    	Hard
 733	Flood Fill    	Easy
