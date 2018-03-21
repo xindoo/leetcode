@@ -29,7 +29,7 @@ leetcode刷题记录
 - [x] 26  Remove Duplicates from Sorted Array     Easy    
 - [x] 27  Remove Element      Easy    
 - [x] 28  Implement strStr()      Easy    
-- [ ] 29  Divide Two Integers     Medium  
+- [x] 29  Divide Two Integers     Medium  
 - [ ] 30  Substring with Concatenation of All Words       Hard    
 - [x] 31  Next Permutation    Medium  
 - [ ] 32  Longest Valid Parentheses       Hard    
