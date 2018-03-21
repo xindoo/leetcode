@@ -25,7 +25,7 @@ leetcode刷题记录
 - [x] 22  Generate Parentheses    Medium  
 - [x] 23  Merge k Sorted Lists    Hard    
 - [x] 24  Swap Nodes in Pairs     Medium  
-- [ ] 25  Reverse Nodes in k-Group    Hard    
+- [x] 25  Reverse Nodes in k-Group    Hard    
 - [x] 26  Remove Duplicates from Sorted Array     Easy    
 - [x] 27  Remove Element      Easy    
 - [x] 28  Implement strStr()      Easy    
