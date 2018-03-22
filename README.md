@@ -756,3 +756,4 @@ leetcode刷题记录
 789 Escape The Ghosts    New Medium
 790 Domino and Tromino Tiling    New Medium
 791 Custom Sort String    New Medium
+- [x] 796 Rotate String     Easy
