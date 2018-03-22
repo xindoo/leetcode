@@ -207,7 +207,7 @@ leetcode刷题记录
 - [ ] 204 Count Primes    Easy    
 - [x] 205 Isomorphic Strings      Easy    
 - [x] 206 Reverse Linked List     Easy    
-- [ ] 207 Course Schedule     Medium  
+- [x] 207 Course Schedule     Medium  
 - [ ] 208 Implement Trie (Prefix Tree)    Medium  
 - [ ] 209 Minimum Size Subarray Sum       Medium  
 - [ ] 210 Course Schedule II      Medium  
