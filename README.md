@@ -208,7 +208,7 @@ leetcode刷题记录
 - [x] 205 Isomorphic Strings      Easy    
 - [x] 206 Reverse Linked List     Easy    
 - [x] 207 Course Schedule     Medium  
-- [ ] 208 Implement Trie (Prefix Tree)    Medium  
+- [x] 208 Implement Trie (Prefix Tree)    Medium  
 - [ ] 209 Minimum Size Subarray Sum       Medium  
 - [ ] 210 Course Schedule II      Medium  
 - [ ] 211 Add and Search Word - Data structure design     Medium  
