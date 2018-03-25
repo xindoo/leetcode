@@ -755,5 +755,6 @@ leetcode刷题记录
 788 Rotated Digits    New Easy
 789 Escape The Ghosts    New Medium
 790 Domino and Tromino Tiling    New Medium
-791 Custom Sort String    New Medium
+791 Custom Sort String    Medium
 - [x] 796 Rotate String     Easy
+- [x] 807 Max Increase to Keep City Skyline   Medium
