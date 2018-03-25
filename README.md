@@ -756,5 +756,6 @@ leetcode刷题记录
 789 Escape The Ghosts    New Medium
 790 Domino and Tromino Tiling    New Medium
 791 Custom Sort String    Medium
+- [x] 806 Number of Lines To Write String    Easy
 - [x] 796 Rotate String     Easy
 - [x] 807 Max Increase to Keep City Skyline   Medium
