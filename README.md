@@ -438,7 +438,7 @@ leetcode刷题记录
 - [ ] 441 Arranging Coins     Easy    
 - [ ] 442 Find All Duplicates in an Array     Medium  
 - [ ] 444 Sequence Reconstruction         Medium  
-- [ ] 445 Add Two Numbers II      Medium  
+- [x] 445 Add Two Numbers II      Medium  
 - [ ] 446 Arithmetic Slices II - Subsequence      Hard    
 - [ ] 447 Number of Boomerangs    Easy    
 - [ ] 448 Find All Numbers Disappeared in an Array    Easy    
