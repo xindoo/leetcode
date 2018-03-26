@@ -162,7 +162,7 @@ leetcode刷题记录
 - [ ] 159 Longest Substring with At Most Two Distinct Characters      Hard    
 - [x] 160 Intersection of Two Linked Lists    Easy    
 - [ ] 161 One Edit Distance       Medium  
-- [ ] 162 Find Peak Element       Medium  
+- [x] 162 Find Peak Element       Medium  
 - [ ] 163 Missing Ranges      Medium  
 - [ ] 164 Maximum Gap     Hard    
 - [ ] 165 Compare Version Numbers     Medium  
