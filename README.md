@@ -412,7 +412,7 @@ leetcode刷题记录
 - [ ] 409 Longest Palindrome      Easy    
 - [ ] 410 Split Array Largest Sum     Hard    
 - [ ] 411 Minimum Unique Word Abbreviation        Hard    
-- [ ] 412 Fizz Buzz       Easy    
+- [x] 412 Fizz Buzz       Easy    
 - [x] 413 Arithmetic Slices       Medium  
 - [x] 414 Third Maximum Number    Easy    
 - [x] 415 Add Strings     Easy    
