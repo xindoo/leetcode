@@ -287,7 +287,7 @@ leetcode刷题记录
 - [ ] 284 Peeking Iterator    Medium  
 - [ ] 285 Inorder Successor in BST        Medium  
 - [ ] 286 Walls and Gates         Medium  
-- [ ] 287 Find the Duplicate Number       Medium  
+- [x] 287 Find the Duplicate Number       Medium  
 - [ ] 288 Unique Word Abbreviation        Medium  
 - [ ] 289 Game of Life    Medium  
 - [x] 290 Word Pattern    Easy    
