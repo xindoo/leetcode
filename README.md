@@ -673,7 +673,7 @@ leetcode刷题记录
 - [ ] 695 Max Area of Island      Easy    
 - [ ] 696 Count Binary Substrings     Easy    
 - [ ] 697 Degree of an Array      Easy    
-- [ ] 698 Partition to K Equal Sum Subsets    Medium  
+- [x] 698 Partition to K Equal Sum Subsets    Medium  
 - [ ] 699 Falling Squares     Hard    
 - [ ] 711 Number of Distinct Islands II       Hard    
 - [ ] 712 Minimum ASCII Delete Sum for Two Strings    Medium  
