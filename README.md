@@ -575,7 +575,7 @@ leetcode刷题记录
 - [ ] 595 Big Countries       Easy    
 - [ ] 596 Classes More Than 5 Students    Easy    
 - [ ] 597 Friend Requests I: Overall Acceptance Rate      Easy    
-- [ ] 598 Range Addition II       Easy    
+- [x] 598 Range Addition II       Easy    
 - [ ] 599 Minimum Index Sum of Two Lists      Easy    
 - [ ] 600 Non-negative Integers without Consecutive Ones      Hard    
 - [ ] 601 Human Traffic of Stadium    Hard    
