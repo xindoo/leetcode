@@ -78,7 +78,7 @@ leetcode刷题记录
 - [x] 75  Sort Colors     Medium  
 - [ ] 76  Minimum Window Substring    Hard    
 - [ ] 77  Combinations    Medium  
-- [ ] 78  Subsets     Medium  
+- [x] 78  Subsets     Medium  
 - [ ] 79  Word Search     Medium  
 - [ ] 80  Remove Duplicates from Sorted Array II      Medium  
 - [ ] 81  Search in Rotated Sorted Array II       Medium  
