@@ -717,10 +717,10 @@ leetcode刷题记录
 - [ ] 750 Number Of Corner Rectangles     Medium
 - [ ] 751 IP to CIDR     Easy
 - [ ] 752 Open the Lock     Medium
-753 Cracking the Safe     Hard
-754 Reach a Number     Medium
-755 Pour Water     Medium
-756 Pyramid Transition Matrix     Medium
+- [ ] 753 Cracking the Safe     Hard
+- [ ] 754 Reach a Number     Medium
+- [ ] 755 Pour Water     Medium
+- [x] 756 Pyramid Transition Matrix      Medium
 757 Set Intersection Size At Least Two     Hard
 758 Bold Words in String     Easy
 759 Employee Free Time     Hard
