@@ -572,7 +572,7 @@ leetcode刷题记录
 - [ ] 592 Fraction Addition and Subtraction       Medium  
 - [ ] 593 Valid Square    Medium  
 - [ ] 594 Longest Harmonious Subsequence      Easy    
-- [ ] 595 Big Countries       Easy    
+- [x] 595 Big Countries       Easy    
 - [ ] 596 Classes More Than 5 Students    Easy    
 - [ ] 597 Friend Requests I: Overall Acceptance Rate      Easy    
 - [x] 598 Range Addition II       Easy    
