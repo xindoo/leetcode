@@ -395,7 +395,7 @@ leetcode刷题记录
 - [ ] 392 Is Subsequence      Medium  
 - [ ] 393 UTF-8 Validation    Medium  
 - [ ] 394 Decode String       Medium  
-- [ ] 395 Longest Substring with At Least K Repeating Characters      Medium  
+- [x] 395 Longest Substring with At Least K Repeating Characters      Medium  
 - [ ] 396 Rotate Function     Medium  
 - [ ] 397 Integer Replacement     Medium  
 - [ ] 398 Random Pick Index       Medium  
