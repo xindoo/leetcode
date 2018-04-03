@@ -409,7 +409,7 @@ leetcode刷题记录
 - [ ] 406 Queue Reconstruction by Height      Medium  
 - [ ] 407 Trapping Rain Water II      Hard    
 - [ ] 408 Valid Word Abbreviation         Easy    
-- [ ] 409 Longest Palindrome      Easy    
+- [x] 409 Longest Palindrome      Easy    
 - [ ] 410 Split Array Largest Sum     Hard    
 - [ ] 411 Minimum Unique Word Abbreviation        Hard    
 - [x] 412 Fizz Buzz       Easy    
@@ -754,8 +754,9 @@ leetcode刷题记录
 787 Cheapest Flights Within K Stops     Medium
 788 Rotated Digits    New Easy
 789 Escape The Ghosts    New Medium
-790 Domino and Tromino Tiling    New Medium
+790 Domino and Tromino Tiling     Medium
 791 Custom Sort String    Medium
+- [x] 795 Number of Subarrays with Bounded Maximum     Medium  
 - [x] 804 Unique Morse Code Words    Easy
 - [x] 805 Split Array With Same Average     Hard
 - [x] 806 Number of Lines To Write String    Easy
