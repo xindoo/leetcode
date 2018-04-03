@@ -43,7 +43,7 @@ leetcode刷题记录
 - [ ] 40  Combination Sum II      Medium  
 - [ ] 41  First Missing Positive      Hard    
 - [ ] 42  Trapping Rain Water     Hard    
-- [ ] 43  Multiply Strings    Medium  
+- [x] 43  Multiply Strings    Medium  
 - [ ] 44  Wildcard Matching       Hard    
 - [ ] 45  Jump Game II    Hard    
 - [x] 46  Permutations    Medium  
@@ -392,7 +392,7 @@ leetcode刷题记录
 - [x] 389 Find the Difference     Easy    
 - [ ] 390 Elimination Game    Medium  
 - [ ] 391 Perfect Rectangle       Hard    
-- [ ] 392 Is Subsequence      Medium  
+- [x] 392 Is Subsequence      Medium  
 - [ ] 393 UTF-8 Validation    Medium  
 - [ ] 394 Decode String       Medium  
 - [x] 395 Longest Substring with At Least K Repeating Characters      Medium  
