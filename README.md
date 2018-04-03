@@ -435,7 +435,7 @@ leetcode刷题记录
 - [ ] 438 Find All Anagrams in a String       Easy    
 - [ ] 439 Ternary Expression Parser       Medium  
 - [ ] 440 K-th Smallest in Lexicographical Order      Hard    
-- [ ] 441 Arranging Coins     Easy    
+- [x] 441 Arranging Coins     Easy    
 - [ ] 442 Find All Duplicates in an Array     Medium  
 - [ ] 444 Sequence Reconstruction         Medium  
 - [x] 445 Add Two Numbers II      Medium  
