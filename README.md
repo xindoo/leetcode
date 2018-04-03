@@ -388,7 +388,7 @@ leetcode刷题记录
 - [ ] 385 Mini Parser     Medium  
 - [ ] 386 Lexicographical Numbers     Medium  
 - [x] 387 First Unique Character in a String      Easy    
-- [ ] 388 Longest Absolute File Path      Medium  
+- [x] 388 Longest Absolute File Path      Medium  
 - [x] 389 Find the Difference     Easy    
 - [ ] 390 Elimination Game    Medium  
 - [ ] 391 Perfect Rectangle       Hard    
