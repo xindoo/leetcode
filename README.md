@@ -257,7 +257,7 @@ leetcode刷题记录
 - [ ] 254 Factor Combinations         Medium  
 - [ ] 255 Verify Preorder Sequence in Binary Search Tree      Medium  
 - [ ] 256 Paint House         Easy    
-- [ ] 257 Binary Tree Paths       Easy    
+- [x] 257 Binary Tree Paths       Easy    
 - [x] 258 Add Digits      Easy    
 - [ ] 259 3Sum Smaller        Medium  
 - [x] 260 Single Number III       Medium  
