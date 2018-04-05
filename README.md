@@ -646,7 +646,7 @@ leetcode刷题记录
 - [ ] 668 Kth Smallest Number in Multiplication Table     Hard    
 - [ ] 669 Trim a Binary Search Tree       Easy    
 - [ ] 670 Maximum Swap    Medium  
-- [ ] 671 Second Minimum Node In a Binary Tree    Easy    
+- [x] 671 Second Minimum Node In a Binary Tree    Easy    
 - [ ] 672 Bulb Switcher II    Medium  
 - [ ] 673 Number of Longest Increasing Subsequence    Medium  
 - [ ] 674 Longest Continuous Increasing Subsequence       Easy    
