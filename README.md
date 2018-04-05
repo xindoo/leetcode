@@ -32,7 +32,7 @@ leetcode刷题记录
 - [x] 29  Divide Two Integers     Medium  
 - [ ] 30  Substring with Concatenation of All Words       Hard    
 - [x] 31  Next Permutation    Medium  
-- [ ] 32  Longest Valid Parentheses       Hard    
+- [x] 32  Longest Valid Parentheses       Hard    
 - [x] 33  Search in Rotated Sorted Array      Medium  
 - [x] 34  Search for a Range      Medium  
 - [x] 35  Search Insert Position      Easy    
