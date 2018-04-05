@@ -551,7 +551,7 @@ leetcode刷题记录
 - [ ] 569 Median Employee Salary      Hard    
 - [ ] 570 Managers with at Least 5 Direct Reports         Medium  
 - [ ] 571 Find Median Given Frequency of Numbers      Hard    
-- [ ] 572 Subtree of Another Tree     Easy    
+- [x] 572 Subtree of Another Tree     Easy    
 - [ ] 573 Squirrel Simulation         Medium  
 - [ ] 574 Winning Candidate       Medium  
 - [ ] 575 Distribute Candies      Easy    
