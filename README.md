@@ -482,7 +482,7 @@ leetcode刷题记录
 - [ ] 488 Zuma Game       Hard    
 - [ ] 490 The Maze        Medium  
 - [ ] 491 Increasing Subsequences     Medium  
-- [ ] 492 Construct the Rectangle     Easy    
+- [x] 492 Construct the Rectangle     Easy    
 - [ ] 493 Reverse Pairs       Hard    
 - [ ] 494 Target Sum      Medium  
 - [ ] 495 Teemo Attacking     Medium  
