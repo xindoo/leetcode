@@ -704,7 +704,7 @@ leetcode刷题记录
 - [ ] 737 Sentence Similarity II     Medium
 - [ ] 738 Monotone Increasing Digits     Medium
 - [ ] 739 Daily Temperatures     Medium
-- [ ] 740 Delete and Earn     Medium
+- [x] 740 Delete and Earn     Medium
 - [ ] 741 Cherry Pickup     Hard
 - [ ] 742 Closest Leaf in a Binary Tree     Medium
 - [ ] 743 Network Delay Time     Medium
