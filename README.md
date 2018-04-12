@@ -521,7 +521,7 @@ leetcode刷题记录
 - [x] 535 Encode and Decode TinyURL       Medium  
 - [ ] 536 Construct Binary Tree from String       Medium  
 - [ ] 537 Complex Number Multiplication       Medium  
-- [ ] 538 Convert BST to Greater Tree     Easy    
+- [x] 538 Convert BST to Greater Tree     Easy    
 - [ ] 539 Minimum Time Difference     Medium  
 - [ ] 540 Single Element in a Sorted Array    Medium  
 - [ ] 541 Reverse String II       Easy    
