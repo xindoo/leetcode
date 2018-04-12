@@ -466,7 +466,7 @@ leetcode刷题记录
 - [ ] 471 Encode String with Shortest Length      Hard    
 - [ ] 472 Concatenated Words      Hard    
 - [ ] 473 Matchsticks to Square       Medium  
-- [ ] 474 Ones and Zeroes     Medium  
+- [x] 474 Ones and Zeroes     Medium  
 - [ ] 475 Heaters     Easy    
 - [ ] 476 Number Complement       Easy    
 - [ ] 477 Total Hamming Distance      Medium  
