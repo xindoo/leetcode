@@ -603,7 +603,7 @@ leetcode刷题记录
 - [ ] 624 Maximum Distance in Arrays      Easy    
 - [ ] 625 Minimum Factorization       Medium  
 - [ ] 626 Exchange Seats      Medium  
-- [ ] 627 Swap Salary     Easy    
+- [x] 627 Swap Salary     Easy    
 - [ ] 628 Maximum Product of Three Numbers    Easy    
 - [ ] 629 K Inverse Pairs Array       Hard    
 - [ ] 630 Course Schedule III     Hard    
