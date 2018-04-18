@@ -83,7 +83,7 @@ leetcode刷题记录
 - [ ] 80  Remove Duplicates from Sorted Array II      Medium  
 - [ ] 81  Search in Rotated Sorted Array II       Medium  
 - [x] 82  Remove Duplicates from Sorted List II       Medium  
-- [ ] 83  Remove Duplicates from Sorted List      Easy    
+- [x] 83  Remove Duplicates from Sorted List      Easy    
 - [ ] 84  Largest Rectangle in Histogram      Hard    
 - [ ] 85  Maximal Rectangle       Hard    
 - [x] 86  Partition List      Medium  
