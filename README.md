@@ -497,7 +497,7 @@ leetcode刷题记录
 - [ ] 505 The Maze II         Medium  
 - [ ] 506 Relative Ranks      Easy    
 - [ ] 507 Perfect Number      Easy    
-- [ ] 508 Most Frequent Subtree Sum       Medium  
+- [x] 508 Most Frequent Subtree Sum       Medium  
 - [ ] 513 Find Bottom Left Tree Value     Medium  
 - [ ] 514 Freedom Trail       Hard    
 - [ ] 515 Find Largest Value in Each Tree Row     Medium  
