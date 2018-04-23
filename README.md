@@ -98,7 +98,7 @@ leetcode刷题记录
 - [ ] 95  Unique Binary Search Trees II       Medium  
 - [x] 96  Unique Binary Search Trees      Medium  
 - [ ] 97  Interleaving String     Hard    
-- [ ] 98  Validate Binary Search Tree     Medium  
+- [x] 98  Validate Binary Search Tree     Medium  
 - [ ] 99  Recover Binary Search Tree      Hard    
 - [x] 100 Same Tree       Easy    
 - [x] 101 Symmetric Tree      Easy    
