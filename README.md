@@ -467,7 +467,7 @@ leetcode刷题记录
 - [ ] 472 Concatenated Words      Hard    
 - [ ] 473 Matchsticks to Square       Medium  
 - [x] 474 Ones and Zeroes     Medium  
-- [ ] 475 Heaters     Easy    
+- [x] 475 Heaters     Easy    
 - [ ] 476 Number Complement       Easy    
 - [ ] 477 Total Hamming Distance      Medium  
 - [ ] 479 Largest Palindrome Product      Easy    
