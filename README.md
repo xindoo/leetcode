@@ -476,7 +476,7 @@ leetcode刷题记录
 - [x] 482 License Key Formatting      Medium  
 - [x] 483 Smallest Good Base      Hard    
 - [ ] 484 Find Permutation        Medium  
-- [ ] 485 Max Consecutive Ones    Easy    
+- [x] 485 Max Consecutive Ones    Easy    
 - [ ] 486 Predict the Winner      Medium  
 - [ ] 487 Max Consecutive Ones II         Medium  
 - [ ] 488 Zuma Game       Hard    
