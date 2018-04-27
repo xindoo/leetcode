@@ -618,7 +618,7 @@ leetcode刷题记录
 - [ ] 639 Decode Ways II      Hard    
 - [ ] 640 Solve the Equation      Medium  
 - [ ] 642 Design Search Autocomplete System       Hard    
-- [ ] 643 Maximum Average Subarray I      Easy    
+- [x] 643 Maximum Average Subarray I      Easy    
 - [ ] 644 Maximum Average Subarray II         Hard    
 - [ ] 645 Set Mismatch    Easy    
 - [ ] 646 Maximum Length of Pair Chain    Medium  
