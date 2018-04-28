@@ -41,7 +41,7 @@ leetcode刷题记录
 - [x] 38  Count and Say       Easy    
 - [ ] 39  Combination Sum     Medium  
 - [ ] 40  Combination Sum II      Medium  
-- [ ] 41  First Missing Positive      Hard    
+- [x] 41  First Missing Positive      Hard    
 - [ ] 42  Trapping Rain Water     Hard    
 - [x] 43  Multiply Strings    Medium  
 - [ ] 44  Wildcard Matching       Hard    
