@@ -164,7 +164,7 @@ leetcode刷题记录
 - [ ] 161 One Edit Distance       Medium  
 - [x] 162 Find Peak Element       Medium  
 - [ ] 163 Missing Ranges      Medium  
-- [ ] 164 Maximum Gap     Hard    
+- [x] 164 Maximum Gap     Hard    
 - [ ] 165 Compare Version Numbers     Medium  
 - [ ] 166 Fraction to Recurring Decimal       Medium  
 - [x] 167 Two Sum II - Input array is sorted      Easy    
