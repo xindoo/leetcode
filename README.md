@@ -56,7 +56,7 @@ leetcode刷题记录
 - [x] 53  Maximum Subarray    Easy    
 - [x] 54  Spiral Matrix       Medium  
 - [x] 55  Jump Game       Medium  
-- [ ] 56  Merge Intervals     Medium  
+- [x] 56  Merge Intervals     Medium  
 - [ ] 57  Insert Interval     Hard    
 - [ ] 58  Length of Last Word     Easy    
 - [x] 59  Spiral Matrix II    Medium  
