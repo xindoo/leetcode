@@ -179,7 +179,7 @@ leetcode刷题记录
 - [ ] 176 Second Highest Salary       Easy    
 - [ ] 177 Nth Highest Salary      Medium  
 - [ ] 178 Rank Scores     Medium  
-- [ ] 179 Largest Number      Medium  
+- [x] 179 Largest Number      Medium  
 - [ ] 180 Consecutive Numbers     Medium  
 - [x] 181 Employees Earning More Than Their Managers      Easy    
 - [x] 182 Duplicate Emails    Easy    
