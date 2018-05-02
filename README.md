@@ -300,7 +300,7 @@ leetcode刷题记录
 - [ ] 297 Serialize and Deserialize Binary Tree       Hard    
 - [ ] 298 Binary Tree Longest Consecutive Sequence        Medium  
 - [x] 299 Bulls and Cows      Medium  
-- [ ] 300 Longest Increasing Subsequence      Medium  
+- [x] 300 Longest Increasing Subsequence      Medium  
 - [ ] 301 Remove Invalid Parentheses      Hard    
 - [ ] 302 Smallest Rectangle Enclosing Black Pixels       Hard    
 - [x] 303 Range Sum Query - Immutable     Easy    
