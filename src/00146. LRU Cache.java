@@ -52,13 +52,7 @@ class LRUCache {
         addNode(newNode);
         expired();
     }
-    public static void main(String[] args) {
-        LRUCache cache = new LRUCache(2);
-        for (int i = 0; i < 10; i++) {
-            cache.put(i, i);
-        }
-    }
-
+    
     private void deleteNode(DLinkedList p) {
         if (null == p)
             return;
