@@ -73,7 +73,7 @@ leetcode刷题记录
 - [x] 70  Climbing Stairs     Easy    
 - [ ] 71  Simplify Path       Medium  
 - [ ] 72  Edit Distance       Hard    
-- [ ] 73  Set Matrix Zeroes       Medium  
+- [x] 73  Set Matrix Zeroes       Medium  
 - [x] 74  Search a 2D Matrix      Medium  
 - [x] 75  Sort Colors     Medium  
 - [ ] 76  Minimum Window Substring    Hard    
