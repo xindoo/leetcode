@@ -21,3 +21,4 @@ class Solution {
         }
     }
 }
+//row和col标记数组可以直接使用matrix的第0列和第0行，这样就可以做到O(1)的空间复杂度了  
