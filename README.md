@@ -42,7 +42,7 @@ leetcode刷题记录
 - [ ] 39  Combination Sum     Medium  
 - [ ] 40  Combination Sum II      Medium  
 - [x] 41  First Missing Positive      Hard    
-- [ ] 42  Trapping Rain Water     Hard    
+- [x] 42  Trapping Rain Water     Hard    
 - [x] 43  Multiply Strings    Medium  
 - [ ] 44  Wildcard Matching       Hard    
 - [ ] 45  Jump Game II    Hard    
