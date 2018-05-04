@@ -612,7 +612,7 @@ leetcode刷题记录
 - [ ] 633 Sum of Square Numbers       Easy    
 - [ ] 634 Find the Derangement of An Array        Medium  
 - [ ] 635 Design Log Storage System       Medium  
-- [ ] 636 Exclusive Time of Functions     Medium  
+- [x] 636 Exclusive Time of Functions     Medium  
 - [ ] 637 Average of Levels in Binary Tree    Easy    
 - [ ] 638 Shopping Offers     Medium  
 - [ ] 639 Decode Ways II      Hard    
