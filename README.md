@@ -58,7 +58,7 @@ leetcode刷题记录
 - [x] 55  Jump Game       Medium  
 - [x] 56  Merge Intervals     Medium  
 - [ ] 57  Insert Interval     Hard    
-- [ ] 58  Length of Last Word     Easy    
+- [x] 58  Length of Last Word     Easy    
 - [x] 59  Spiral Matrix II    Medium  
 - [ ] 60  Permutation Sequence    Medium  
 - [ ] 61  Rotate List     Medium  
