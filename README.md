@@ -39,7 +39,7 @@ leetcode刷题记录
 - [ ] 36  Valid Sudoku    Medium  
 - [x] 37  Sudoku Solver       Hard    
 - [x] 38  Count and Say       Easy    
-- [ ] 39  Combination Sum     Medium  
+- [x] 39  Combination Sum     Medium  
 - [ ] 40  Combination Sum II      Medium  
 - [x] 41  First Missing Positive      Hard    
 - [x] 42  Trapping Rain Water     Hard    
