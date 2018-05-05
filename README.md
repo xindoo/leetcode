@@ -665,7 +665,7 @@ leetcode刷题记录
 - [ ] 687 Longest Univalue Path       Easy    
 - [ ] 688 Knight Probability in Chessboard    Medium  
 - [ ] 689 Maximum Sum of 3 Non-Overlapping Subarrays      Hard    
-- [ ] 690 Employee Importance     Easy    
+- [x] 690 Employee Importance     Easy    
 - [ ] 691 Stickers to Spell Word      Hard    
 - [ ] 692 Top K Frequent Words    Medium  
 - [ ] 693 Binary Number with Alternating Bits     Easy    
