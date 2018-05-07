@@ -498,7 +498,7 @@ leetcode刷题记录
 - [ ] 506 Relative Ranks      Easy    
 - [x] 507 Perfect Number      Easy    
 - [x] 508 Most Frequent Subtree Sum       Medium  
-- [ ] 513 Find Bottom Left Tree Value     Medium  
+- [x] 513 Find Bottom Left Tree Value     Medium  
 - [ ] 514 Freedom Trail       Hard    
 - [ ] 515 Find Largest Value in Each Tree Row     Medium  
 - [ ] 516 Longest Palindromic Subsequence     Medium  
