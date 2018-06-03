@@ -504,7 +504,7 @@ leetcode刷题记录
 - [ ] 516 Longest Palindromic Subsequence|Medium  
 - [ ] 517 Super Washing Machines| Hard    
 - [x] 518 Coin Change 2|  Medium  
-- [ ] 520 Detect Capital| Easy    
+- [x] 520 Detect Capital| Easy    
 - [ ] 521 Longest Uncommon Subsequence I |Easy    
 - [ ] 522 Longest Uncommon Subsequence II|Medium  
 - [ ] 523 Continuous Subarray Sum|Medium  
