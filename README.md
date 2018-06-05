@@ -102,7 +102,7 @@ leetcode刷题记录
 - [ ] 99  Recover Binary Search Tree| Hard    
 - [x] 100 Same Tree|  Easy    
 - [x] 101 Symmetric Tree| Easy    
-- [ ] 102 Binary Tree Level Order Traversal|  Medium  
+- [x] 102 Binary Tree Level Order Traversal|  Medium  
 - [ ] 103 Binary Tree Zigzag Level Order Traversal    Medium  
 - [x] 104 Maximum Depth of Binary Tree    Easy    
 - [x] 105 Construct Binary Tree from Preorder and Inorder Traversal|  Medium  
