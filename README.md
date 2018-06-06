@@ -222,7 +222,7 @@ leetcode刷题记录
 - [ ] 219 Contains Duplicate II|  Easy    
 - [ ] 220 Contains Duplicate III| Medium  
 - [ ] 221 Maximal Square| Medium  
-- [ ] 222 Count Complete Tree Nodes|  Medium  
+- [x] 222 Count Complete Tree Nodes|  Medium  
 - [ ] 223 Rectangle Area| Medium  
 - [ ] 224 Basic Calculator    Hard    
 - [ ] 225 Implement Stack using Queues    Easy    
