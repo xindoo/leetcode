@@ -187,7 +187,7 @@ leetcode刷题记录
 - [ ] 184 Department Highest Salary|  Medium  
 - [ ] 185 Department Top Three Salaries|  Hard    
 - [ ] 186 Reverse Words in a String II  | Medium  
-- [ ] 187 Repeated DNA Sequences| Medium  
+- [x] 187 Repeated DNA Sequences| Medium  
 - [ ] 188 Best Time to Buy and Sell Stock IV| Hard    
 - [ ] 189 Rotate Array    Easy    
 - [x] 190 Reverse Bits    Easy    
