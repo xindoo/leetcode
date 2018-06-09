@@ -489,7 +489,7 @@ leetcode刷题记录
 - [ ] 496 Next Greater Element I| Easy    
 - [ ] 498 Diagonal Traverse|  Medium  
 - [ ] 499 The Maze III  | Hard    
-- [ ] 500 Keyboard Row    Easy    
+- [x] 500 Keyboard Row    Easy    
 - [ ] 501 Find Mode in Binary Search Tree|Easy    
 - [ ] 502 IPO|Hard    
 - [ ] 503 Next Greater Element II|Medium  
