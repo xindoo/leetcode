@@ -767,3 +767,4 @@ leetcode刷题记录
 - [x] 845 Longest Mountain in Array | Medium
 - [x] 846 Hand of Straights | Medium
 - [x] 848 Shifting Letters | Medium
+- [x] 849 Maximize Distance to Closest Person | Easy
