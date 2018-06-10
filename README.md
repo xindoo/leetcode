@@ -763,3 +763,5 @@ leetcode刷题记录
 - [x] 796 Rotate String|Easy
 - [x] 807 Max Increase to Keep City Skyline   Medium
 - [x] 826 Most Profit Assigning Work|Medium	
+- [x] 844 Backspace String Compare| Easy
+- [x] 845 Longest Mountain in Array | Medium
