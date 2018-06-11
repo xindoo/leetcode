@@ -655,7 +655,7 @@ leetcode刷题记录
 - [ ] 677 Map Sum Pairs|  Medium  
 - [ ] 678 Valid Parenthesis String    Medium  
 - [ ] 679 24 Game|Hard    
-- [ ] 680 Valid Palindrome II|Easy    
+- [x] 680 Valid Palindrome II|Easy    
 - [ ] 681 Next Closest Time|  Medium  
 - [ ] 682 Baseball Game|  Easy    
 - [ ] 683 K Empty Slots|  Hard    
