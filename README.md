@@ -454,7 +454,7 @@ leetcode刷题记录
 - [x] 458 Poor Pigs|  Easy    
 - [ ] 459 Repeated Substring Pattern| Easy    
 - [ ] 460 LFU Cache|  Hard    
-- [ ] 461 Hamming Distance    Easy    
+- [x] 461 Hamming Distance    Easy    
 - [ ] 462 Minimum Moves to Equal Array Elements II    Medium  
 - [ ] 463 Island Perimeter    Easy    
 - [ ] 464 Can I Win|  Medium  
