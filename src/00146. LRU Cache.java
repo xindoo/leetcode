@@ -1,5 +1,7 @@
+import java.util.HashMap;
+
 class LRUCache {
-    private class DLinkedList {
+    private class DLinkedList{
         public int key;
         public int value;
         public DLinkedList pre;
@@ -14,6 +16,7 @@ class LRUCache {
     private int size = 0;
     private DLinkedList head;
     private DLinkedList tail;
+    private HashMap<Integer, DLinkedList> map = new HashMap<Integer, DLinkedList>();
 
     public LRUCache(int capacity) {
         this.capacity = capacity;
@@ -35,24 +38,18 @@ class LRUCache {
     }
 
     private DLinkedList findNode(int key) {
-        DLinkedList p = head.next;
-        while (p != tail) {
-            if (p.key == key) {
-                return p;
-            }
-            p = p.next;
-        }
-        return null;
+        return map.getOrDefault(key, null);
     }
 
     public void put(int key, int value) {
         DLinkedList p = findNode(key);
         deleteNode(p);
         DLinkedList newNode = new DLinkedList(key, value);
+        map.put(newNode.key, newNode);
         addNode(newNode);
         expired();
     }
-    
+
     private void deleteNode(DLinkedList p) {
         if (null == p)
             return;
@@ -67,8 +64,10 @@ class LRUCache {
         head.next = newNode;
         size++;
     }
+
     private void expired() {
         if (size > capacity) {
+            map.remove(tail.pre.key);
             deleteNode(tail.pre);
         }
     }
