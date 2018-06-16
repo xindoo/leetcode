@@ -711,7 +711,7 @@ leetcode刷题记录
 - [ ] 744 Find Smallest Letter Greater Than Target|Easy
 - [ ] 745 Prefix and Suffix Search|Hard
 - [ ] 746 Min Cost Climbing Stairs|Easy
-- [ ] 747 Largest Number At Least Twice of Others|Easy
+- [x] 747 Largest Number At Least Twice of Others|Easy
 - [ ] 748 Shortest Completing Word|Medium
 - [ ] 749 Contain Virus|Hard
 - [ ] 750 Number Of Corner Rectangles|Medium
