@@ -768,3 +768,4 @@ leetcode刷题记录
 - [x] 846 Hand of Straights | Medium
 - [x] 848 Shifting Letters | Medium
 - [x] 849 Maximize Distance to Closest Person | Easy
+- [x] 851 Loud and Rich | Medium
