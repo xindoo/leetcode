@@ -216,7 +216,7 @@ leetcode刷题记录
 - [ ] 213 House Robber II|Medium  
 - [ ] 214 Shortest Palindrome|Hard    
 - [ ] 215 Kth Largest Element in an Array|Medium  
-- [ ] 216 Combination Sum III|Medium  
+- [x] 216 Combination Sum III|Medium  
 - [x] 217 Contains Duplicate| Easy    
 - [ ] 218 The Skyline Problem|Hard    
 - [ ] 219 Contains Duplicate II|  Easy    
