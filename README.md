@@ -203,7 +203,7 @@ leetcode刷题记录
 - [x] 200 Number of Islands|  Medium  
 - [ ] 201 Bitwise AND of Numbers Range    Medium  
 - [x] 202 Happy Number    Easy    
-- [ ] 203 Remove Linked List Elements|Easy    
+- [x] 203 Remove Linked List Elements|Easy    
 - [ ] 204 Count Primes    Easy    
 - [x] 205 Isomorphic Strings| Easy    
 - [x] 206 Reverse Linked List|Easy    
