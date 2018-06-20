@@ -81,7 +81,7 @@ leetcode刷题记录
 - [x] 78  Subsets|Medium  
 - [ ] 79  Word Search|Medium  
 - [ ] 80  Remove Duplicates from Sorted Array II| Medium  
-- [ ] 81  Search in Rotated Sorted Array II|  Medium  
+- [x] 81  Search in Rotated Sorted Array II|  Medium  
 - [x] 82  Remove Duplicates from Sorted List II|  Medium  
 - [x] 83  Remove Duplicates from Sorted List| Easy    
 - [ ] 84  Largest Rectangle in Histogram| Hard    
