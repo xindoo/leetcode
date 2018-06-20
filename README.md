@@ -209,7 +209,7 @@ leetcode刷题记录
 - [x] 206 Reverse Linked List|Easy    
 - [x] 207 Course Schedule|Medium  
 - [x] 208 Implement Trie (Prefix Tree)    Medium  
-- [ ] 209 Minimum Size Subarray Sum|  Medium  
+- [x] 209 Minimum Size Subarray Sum|  Medium  
 - [ ] 210 Course Schedule II| Medium  
 - [ ] 211 Add and Search Word - Data structure design|Medium  
 - [ ] 212 Word Search II| Hard    
