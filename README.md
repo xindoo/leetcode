@@ -708,7 +708,7 @@ leetcode刷题记录
 - [ ] 741 Cherry Pickup|Hard
 - [ ] 742 Closest Leaf in a Binary Tree|Medium
 - [ ] 743 Network Delay Time|Medium
-- [ ] 744 Find Smallest Letter Greater Than Target|Easy
+- [x] 744 Find Smallest Letter Greater Than Target|Easy
 - [ ] 745 Prefix and Suffix Search|Hard
 - [ ] 746 Min Cost Climbing Stairs|Easy
 - [x] 747 Largest Number At Least Twice of Others|Easy
