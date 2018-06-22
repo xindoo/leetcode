@@ -500,7 +500,7 @@ leetcode刷题记录
 - [x] 508 Most Frequent Subtree Sum|  Medium  
 - [x] 513 Find Bottom Left Tree Value|Medium  
 - [ ] 514 Freedom Trail|  Hard    
-- [ ] 515 Find Largest Value in Each Tree Row|Medium  
+- [x] 515 Find Largest Value in Each Tree Row|Medium  
 - [ ] 516 Longest Palindromic Subsequence|Medium  
 - [ ] 517 Super Washing Machines| Hard    
 - [x] 518 Coin Change 2|  Medium  
