@@ -452,7 +452,7 @@ leetcode刷题记录
 - [ ] 456 132 Pattern|Medium  
 - [ ] 457 Circular Array Loop|Medium  
 - [x] 458 Poor Pigs|  Easy    
-- [ ] 459 Repeated Substring Pattern| Easy    
+- [x] 459 Repeated Substring Pattern| Easy    
 - [ ] 460 LFU Cache|  Hard    
 - [x] 461 Hamming Distance    Easy    
 - [ ] 462 Minimum Moves to Equal Array Elements II    Medium  
