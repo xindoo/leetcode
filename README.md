@@ -772,4 +772,5 @@ leetcode刷题记录
 - [x] 851 Loud and Rich | Medium
 - [x] 852 Peak Index in a Mountain Array|Easy
 - [x] 853 Car Fleet | Medium
+- [x] 856 Score of Parentheses | Medium
 - [x] 859 Buddy Strings | Easy
