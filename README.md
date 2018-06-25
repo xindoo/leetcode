@@ -735,7 +735,7 @@ leetcode刷题记录
 - [ ] 768 Max Chunks To Make Sorted II|Hard
 - [ ] 769 Max Chunks To Make Sorted|Medium
 - [ ] 770 Basic Calculator IV|Hard
-- [ ] 771 Jewels and Stones|Easy
+- [x] 771 Jewels and Stones|Easy
 - [ ] 772 Basic Calculator III|Hard
 - [ ] 773 Sliding Puzzle|Hard
 - [ ] 774 Minimize Max Distance to Gas Station|Hard
