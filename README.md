@@ -404,7 +404,7 @@ leetcode刷题记录
 - [x] 401 Binary Watch    Easy    
 - [ ] 402 Remove K Digits|Medium  
 - [ ] 403 Frog Jump|  Hard    
-- [ ] 404 Sum of Left Leaves| Easy    
+- [x] 404 Sum of Left Leaves| Easy    
 - [ ] 405 Convert a Number to Hexadecimal|Easy    
 - [ ] 406 Queue Reconstruction by Height| Medium  
 - [ ] 407 Trapping Rain Water II| Hard    
