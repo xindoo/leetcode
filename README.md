@@ -776,3 +776,6 @@ leetcode刷题记录
 - [x] 856 Score of Parentheses | Medium
 - [x] 858 Mirror Reflection | Medium
 - [x] 859 Buddy Strings | Easy
+- [x] 860 Lemonade Change | Medium
+- [x] 861 Score After Flipping Matrix | Medium
+- [x] 863 All Nodes Distance K in Binary Tree | Medium
