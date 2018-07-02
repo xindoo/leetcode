@@ -495,7 +495,7 @@ leetcode刷题记录
 - [ ] 503 Next Greater Element II|Medium  
 - [ ] 504 Base 7| Easy    
 - [ ] 505 The Maze II  |  Medium  
-- [ ] 506 Relative Ranks| Easy    
+- [x] 506 Relative Ranks| Easy    
 - [x] 507 Perfect Number| Easy    
 - [x] 508 Most Frequent Subtree Sum|  Medium  
 - [x] 513 Find Bottom Left Tree Value|Medium  
