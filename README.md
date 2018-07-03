@@ -545,7 +545,7 @@ leetcode刷题记录
 - [ ] 562 Longest Line of Consecutive One in Matrix  |Medium  
 - [ ] 563 Binary Tree Tilt    Easy    
 - [ ] 564 Find the Closest Palindrome|Hard    
-- [ ] 566 Reshape the Matrix| Easy    
+- [x] 566 Reshape the Matrix| Easy    
 - [ ] 567 Permutation in String|  Medium  
 - [ ] 568 Maximum Vacation Days  |Hard    
 - [ ] 569 Median Employee Salary |Hard    
