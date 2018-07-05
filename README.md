@@ -649,7 +649,7 @@ leetcode刷题记录
 - [x] 671 Second Minimum Node In a Binary Tree    Easy    
 - [ ] 672 Bulb Switcher II    Medium  
 - [ ] 673 Number of Longest Increasing Subsequence    Medium  
-- [ ] 674 Longest Continuous Increasing Subsequence|  Easy    
+- [x] 674 Longest Continuous Increasing Subsequence|  Easy    
 - [ ] 675 Cut Off Trees for Golf Event    Hard    
 - [ ] 676 Implement Magic Dictionary| Medium  
 - [ ] 677 Map Sum Pairs|  Medium  
