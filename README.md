@@ -644,7 +644,7 @@ leetcode刷题记录
 - [ ] 666 Path Sum IV  |  Medium  
 - [ ] 667 Beautiful Arrangement II    Medium  
 - [ ] 668 Kth Smallest Number in Multiplication Table|Hard    
-- [ ] 669 Trim a Binary Search Tree|  Easy    
+- [x] 669 Trim a Binary Search Tree|  Easy    
 - [ ] 670 Maximum Swap    Medium  
 - [x] 671 Second Minimum Node In a Binary Tree    Easy    
 - [ ] 672 Bulb Switcher II    Medium  
