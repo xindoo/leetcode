@@ -304,7 +304,7 @@ leetcode刷题记录
 - [ ] 301 Remove Invalid Parentheses| Hard    
 - [ ] 302 Smallest Rectangle Enclosing Black Pixels  |Hard    
 - [x] 303 Range Sum Query - Immutable|Easy    
-- [ ] 304 Range Sum Query 2D - Immutable| Medium  
+- [x] 304 Range Sum Query 2D - Immutable| Medium  
 - [ ] 305 Number of Islands II  | Hard    
 - [ ] 306 Additive Number|Medium  
 - [x] 307 Range Sum Query - Mutable|  Medium  
