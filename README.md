@@ -779,3 +779,4 @@ leetcode刷题记录
 - [x] 860 Lemonade Change | Medium
 - [x] 861 Score After Flipping Matrix | Medium
 - [x] 863 All Nodes Distance K in Binary Tree | Medium
+- [x] 866 Smallest Subtree with all the Deepest Nodes |Medium
