@@ -780,4 +780,5 @@ leetcode刷题记录
 - [x] 861 Score After Flipping Matrix | Medium
 - [x] 863 All Nodes Distance K in Binary Tree | Medium
 - [x] 866 Smallest Subtree with all the Deepest Nodes | Medium
+- [x] 867 Prime Palindrome | Medium
 - [x] 868 Transpose Matrix | Easy
