@@ -123,7 +123,7 @@ leetcode刷题记录
 - [x] 120 Triangle    Medium  
 - [x] 121 Best Time to Buy and Sell Stock|Easy    
 - [x] 122 Best Time to Buy and Sell Stock II| Easy    
-- [ ] 123 Best Time to Buy and Sell Stock III|Hard    
+- [x] 123 Best Time to Buy and Sell Stock III|Hard    
 - [ ] 124 Binary Tree Maximum Path Sum    Hard    
 - [x] 125 Valid Palindrome    Easy    
 - [ ] 126 Word Ladder II| Hard    
@@ -188,8 +188,8 @@ leetcode刷题记录
 - [ ] 185 Department Top Three Salaries|  Hard    
 - [ ] 186 Reverse Words in a String II  | Medium  
 - [x] 187 Repeated DNA Sequences| Medium  
-- [ ] 188 Best Time to Buy and Sell Stock IV| Hard    
-- [ ] 189 Rotate Array    Easy    
+- [x] 188 Best Time to Buy and Sell Stock IV| Hard    
+- [x] 189 Rotate Array    Easy    
 - [x] 190 Reverse Bits    Easy    
 - [x] 191 Number of 1 Bits    Easy    
 - [x] 192 Word Frequency| Medium  
