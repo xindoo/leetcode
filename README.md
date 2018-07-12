@@ -741,7 +741,7 @@ leetcode刷题记录
 - [ ] 774 Minimize Max Distance to Gas Station|Hard
 - [ ] 775 Global and Local Inversions|Medium
 - [ ] 776 Split BST|Medium
-- [ ] 777 Swap Adjacent in LR String|Medium
+- [x] 777 Swap Adjacent in LR String|Medium
 - [ ] 778 Swim in Rising Water|Hard
 - [ ] 779 K-th Symbol in Grammar|Medium
 - [ ] 780 Reaching Points|Hard
