@@ -76,7 +76,7 @@ leetcode刷题记录
 - [x] 73  Set Matrix Zeroes|  Medium  
 - [x] 74  Search a 2D Matrix| Medium  
 - [x] 75  Sort Colors|Medium  
-- [ ] 76  Minimum Window Substring    Hard    
+- [x] 76  Minimum Window Substring    Hard    
 - [x] 77  Combinations    Medium  
 - [x] 78  Subsets|Medium  
 - [ ] 79  Word Search|Medium  
