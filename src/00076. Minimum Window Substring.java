@@ -28,7 +28,7 @@ class Solution {
         return  ans;
     }
     private boolean isContainAll(int[] cnt, int[] cnt2) {
-        for (int i = 0; i < 126; i++) {
+        for (int i = 'A'; i <= 'z'; i++) {
             if (cnt[i] > cnt2[i])
                 return false;
         }
