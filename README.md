@@ -79,7 +79,7 @@ leetcode刷题记录
 - [x] 76  Minimum Window Substring    Hard    
 - [x] 77  Combinations    Medium  
 - [x] 78  Subsets|Medium  
-- [ ] 79  Word Search|Medium  
+- [x] 79  Word Search|Medium  
 - [ ] 80  Remove Duplicates from Sorted Array II| Medium  
 - [x] 81  Search in Rotated Sorted Array II|  Medium  
 - [x] 82  Remove Duplicates from Sorted List II|  Medium  
