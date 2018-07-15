@@ -780,6 +780,9 @@ leetcode刷题记录
 - [x] 860 Lemonade Change | Medium
 - [x] 861 Score After Flipping Matrix | Medium
 - [x] 863 All Nodes Distance K in Binary Tree | Medium
-- [x] 866 Smallest Subtree with all the Deepest Nodes | Medium
-- [x] 867 Prime Palindrome | Medium
-- [x] 868 Transpose Matrix | Easy
+- [x] 865 Smallest Subtree with all the Deepest Nodes | Medium
+- [x] 866 Prime Palindrome | Medium
+- [x] 867 Transpose Matrix | Easy
+- [x] 868 Binary Gap  | Easy
+- [x] 869 Reordered Power of 2 | Medium
+- [x] 870 Advantage Shuffle | Medium
