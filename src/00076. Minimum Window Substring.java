@@ -7,8 +7,8 @@ class Solution {
         int[] cnt2 = new int[126];
         int start = 0, end = 0;
         int minLen = Integer.MAX_VALUE;
-        String ans = "";
         boolean isBreak =false;
+        int fs= 0, fe = 0;
         while (true) {
             while (!isContainAll(cnt1, cnt2)) {
                 if (end >= s.length()) {
@@ -21,11 +21,14 @@ class Solution {
                 break;
             if (end - start < minLen) {
                 minLen = end-start;
-                ans = s.substring(start, end);
+                fs = start;
+                fe = end;
             }
             cnt2[s.charAt(start++)]--;
         }
-        return  ans;
+        if (minLen == Integer.MAX_VALUE)
+            return "";
+        return  s.substring(fs, fe);
     }
     private boolean isContainAll(int[] cnt, int[] cnt2) {
         for (int i = 'A'; i <= 'z'; i++) {
