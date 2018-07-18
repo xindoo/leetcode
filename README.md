@@ -513,7 +513,7 @@ leetcode刷题记录
 - [x] 526 Beautiful Arrangement|  Medium  
 - [ ] 527 Word Abbreviation  |Hard    
 - [ ] 529 Minesweeper|Medium  
-- [ ] 530 Minimum Absolute Difference in BST| Easy    
+- [x] 530 Minimum Absolute Difference in BST| Easy    
 - [ ] 531 Lonely Pixel I |Medium  
 - [ ] 532 K-diff Pairs in an Array    Easy    
 - [ ] 533 Lonely Pixel II  |  Medium  
