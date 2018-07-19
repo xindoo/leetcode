@@ -755,7 +755,8 @@ leetcode刷题记录
 - [ ] 788 Rotated Digits    New Easy
 - [ ] 789 Escape The Ghosts    New Medium
 - [ ] 790 Domino and Tromino Tiling|Medium
-- [ ] 791 Custom Sort String    Medium
+- [ ] 791 Custom Sort String  |  Medium
+- [x] 792 Number of Matching Subsequences | Medium
 - [x] 795 Number of Subarrays with Bounded Maximum     Medium  
 - [x] 796 Rotate String|Easy
 - [x] 797 All Paths From Source to Target|Medium
