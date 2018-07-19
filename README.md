@@ -405,7 +405,7 @@ leetcode刷题记录
 - [ ] 402 Remove K Digits|Medium  
 - [ ] 403 Frog Jump|  Hard    
 - [x] 404 Sum of Left Leaves| Easy    
-- [ ] 405 Convert a Number to Hexadecimal|Easy    
+- [x] 405 Convert a Number to Hexadecimal|Easy    
 - [ ] 406 Queue Reconstruction by Height| Medium  
 - [ ] 407 Trapping Rain Water II| Hard    
 - [ ] 408 Valid Word Abbreviation  |  Easy    
