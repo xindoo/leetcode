@@ -429,7 +429,7 @@ leetcode刷题记录
 - [ ] 432 All O`one Data Structure    Hard    
 - [ ] 433 Minimum Genetic Mutation    Medium  
 - [ ] 434 Number of Segments in a String| Easy    
-- [ ] 435 Non-overlapping Intervals|  Medium  
+- [x] 435 Non-overlapping Intervals|  Medium  
 - [ ] 436 Find Right Interval|Medium  
 - [ ] 437 Path Sum III    Easy    
 - [ ] 438 Find All Anagrams in a String|  Easy    
