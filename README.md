@@ -787,3 +787,4 @@ leetcode刷题记录
 - [x] 868 Binary Gap  | Easy
 - [x] 869 Reordered Power of 2 | Medium
 - [x] 870 Advantage Shuffle | Medium
+- [x] 872 Leaf-Similar Trees | Easy
