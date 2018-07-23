@@ -788,3 +788,4 @@ leetcode刷题记录
 - [x] 869 Reordered Power of 2 | Medium
 - [x] 870 Advantage Shuffle | Medium
 - [x] 872 Leaf-Similar Trees | Easy
+- [x] 873 Length of Longest Fibonacci Subsequence |Medium
