@@ -283,7 +283,7 @@ leetcode刷题记录
 - [ ] 280 Wiggle Sort  |  Medium  
 - [ ] 281 Zigzag Iterator  |  Medium  
 - [ ] 282 Expression Add Operators    Hard    
-- [ ] 283 Move Zeroes|Easy    
+- [x] 283 Move Zeroes|Easy    
 - [ ] 284 Peeking Iterator    Medium  
 - [ ] 285 Inorder Successor in BST  | Medium  
 - [ ] 286 Walls and Gates  |  Medium  
