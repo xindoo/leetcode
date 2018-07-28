@@ -757,13 +757,14 @@ leetcode刷题记录
 - [ ] 790 Domino and Tromino Tiling|Medium
 - [ ] 791 Custom Sort String  |  Medium
 - [x] 792 Number of Matching Subsequences | Medium
-- [x] 795 Number of Subarrays with Bounded Maximum     Medium  
+- [x] 795 Number of Subarrays with Bounded Maximum   |  Medium  
 - [x] 796 Rotate String|Easy
-- [x] 797 All Paths From Source to Target|Medium
-- [x] 804 Unique Morse Code Words    Easy
-- [x] 805 Split Array With Same Average     Hard
-- [x] 806 Number of Lines To Write String    Easy
-- [x] 807 Max Increase to Keep City Skyline   Medium
+- [x] 797 All Paths From Source to Target | Medium
+- [x] 804 Unique Morse Code Words  |  Easy
+- [x] 805 Split Array With Same Average   |  Hard
+- [x] 806 Number of Lines To Write String  |  Easy
+- [x] 807 Max Increase to Keep City Skyline  | Medium
+- [x] 816 Ambiguous Coordinates | Medium
 - [x] 819 Most Common Word | Easy
 - [x] 826 Most Profit Assigning Work|Medium	
 - [x] 830 Positions of Large Groups |Easy
