@@ -152,7 +152,7 @@ leetcode刷题记录
 - [ ] 149 Max Points on a Line    Hard    
 - [x] 150 Evaluate Reverse Polish Notation    Medium  
 - [x] 151 Reverse Words in a String|  Medium  
-- [ ] 152 Maximum Product Subarray    Medium  
+- [x] 152 Maximum Product Subarray    Medium  
 - [x] 153 Find Minimum in Rotated Sorted Array    Medium  
 - [ ] 154 Find Minimum in Rotated Sorted Array II|Hard    
 - [x] 155 Min Stack|  Easy    
