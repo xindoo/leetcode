@@ -463,6 +463,7 @@ leetcode刷题记录
 - [x] 467 Unique Substrings in Wraparound String| Medium  
 - [ ] 468 Validate IP Address|Medium  
 - [ ] 469 Convex Polygon |Medium  
+- [x] 470 Implement Rand10() Using Rand7() | Medium
 - [ ] 471 Encode String with Shortest Length |Hard    
 - [ ] 472 Concatenated Words| Hard    
 - [ ] 473 Matchsticks to Square|  Medium  
