@@ -793,5 +793,6 @@ leetcode刷题记录
 - [x] 872 Leaf-Similar Trees | Easy
 - [x] 873 Length of Longest Fibonacci Subsequence | Medium
 - [x] 875 Koko Eating Bananas | Medium
+- [x] 876 Middle of the Linked List | Easy
 - [x] 877 Stone Game | Medium
 - [x] 878 Nth Magical Number | Hard
