@@ -753,7 +753,7 @@ leetcode刷题记录
 - [x] 784 Letter Case Permutation|Easy
 - [ ] 785 Is Graph Bipartite?|Medium
 - [ ] 786 K-th Smallest Prime Fraction|Hard
-- [ ] 787 Cheapest Flights Within K Stops|Medium
+- [x] 787 Cheapest Flights Within K Stops|Medium
 - [ ] 788 Rotated Digits    New Easy
 - [ ] 789 Escape The Ghosts    New Medium
 - [ ] 790 Domino and Tromino Tiling|Medium
