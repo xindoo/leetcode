@@ -183,7 +183,7 @@ leetcode刷题记录
 - [ ] 180 Consecutive Numbers|Medium  
 - [x] 181 Employees Earning More Than Their Managers| Easy    
 - [x] 182 Duplicate Emails    Easy    
-- [ ] 183 Customers Who Never Order|  Easy    
+- [x] 183 Customers Who Never Order|  Easy    
 - [ ] 184 Department Highest Salary|  Medium  
 - [ ] 185 Department Top Three Salaries|  Hard    
 - [ ] 186 Reverse Words in a String II  | Medium  
