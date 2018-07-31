@@ -171,7 +171,7 @@ leetcode刷题记录
 - [x] 168 Excel Sheet Column Title    Easy    
 - [x] 169 Majority Element    Easy    
 - [ ] 170 Two Sum III - Data structure design  |  Easy    
-- [ ] 171 Excel Sheet Column Number|  Easy    
+- [x] 171 Excel Sheet Column Number|  Easy    
 - [x] 172 Factorial Trailing Zeroes|  Easy    
 - [ ] 173 Binary Search Tree Iterator|Medium  
 - [ ] 174 Dungeon Game    Hard    
