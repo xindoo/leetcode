@@ -426,6 +426,7 @@ leetcode刷题记录
 - [ ] 423 Reconstruct Original Digits from English    Medium  
 - [ ] 424 Longest Repeating Character Replacement|Medium  
 - [ ] 425 Word Squares  | Hard    
+- [x] 430 Flatten a Multilevel Doubly Linked List  | Medium
 - [ ] 432 All O`one Data Structure    Hard    
 - [ ] 433 Minimum Genetic Mutation    Medium  
 - [ ] 434 Number of Segments in a String| Easy    
