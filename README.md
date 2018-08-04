@@ -696,7 +696,7 @@ leetcode刷题记录
 - [ ] 726 Number of Atoms|Hard
 - [ ] 727 Minimum Window Subsequence|Hard
 - [x] 728 Self Dividing Numbers|Easy
-- [ ] 729 My Calendar I|Medium
+- [x] 729 My Calendar I|Medium
 - [ ] 730 Count Different Palindromic Subsequences|Hard
 - [ ] 731 My Calendar II|Medium
 - [ ] 732 My Calendar III|Hard
