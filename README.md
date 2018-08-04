@@ -695,7 +695,7 @@ leetcode刷题记录
 - [ ] 725 Split Linked List in Parts|Medium
 - [ ] 726 Number of Atoms|Hard
 - [ ] 727 Minimum Window Subsequence|Hard
-- [ ] 728 Self Dividing Numbers|Easy
+- [x] 728 Self Dividing Numbers|Easy
 - [ ] 729 My Calendar I|Medium
 - [ ] 730 Count Different Palindromic Subsequences|Hard
 - [ ] 731 My Calendar II|Medium
