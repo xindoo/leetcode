@@ -797,3 +797,4 @@ leetcode刷题记录
 - [x] 876 Middle of the Linked List | Easy
 - [x] 877 Stone Game | Medium
 - [x] 878 Nth Magical Number | Hard
+- [x] 887 Projection Area of 3D Shapes | Easy
