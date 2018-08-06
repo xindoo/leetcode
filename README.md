@@ -742,7 +742,7 @@ leetcode刷题记录
 - [ ] 772 Basic Calculator III|Hard
 - [ ] 773 Sliding Puzzle|Hard
 - [ ] 774 Minimize Max Distance to Gas Station|Hard
-- [ ] 775 Global and Local Inversions|Medium
+- [x] 775 Global and Local Inversions|Medium
 - [ ] 776 Split BST|Medium
 - [x] 777 Swap Adjacent in LR String|Medium
 - [ ] 778 Swim in Rising Water|Hard
