@@ -672,7 +672,7 @@ leetcode刷题记录
 - [ ] 692 Top K Frequent Words    Medium  
 - [ ] 693 Binary Number with Alternating Bits|Easy    
 - [ ] 694 Number of Distinct Islands |Medium  
-- [ ] 695 Max Area of Island| Easy    
+- [x] 695 Max Area of Island| Easy    
 - [ ] 696 Count Binary Substrings|Easy    
 - [ ] 697 Degree of an Array| Easy    
 - [x] 698 Partition to K Equal Sum Subsets    Medium  
