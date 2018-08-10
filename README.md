@@ -678,6 +678,7 @@ leetcode刷题记录
 - [x] 698 Partition to K Equal Sum Subsets    Medium  
 - [ ] 699 Falling Squares|Hard    
 - [x] 703 Kth Largest Element in a Stream | Easy
+- [x] 704 Binary Search | Easy
 - [ ] 711 Number of Distinct Islands II  |Hard    
 - [ ] 712 Minimum ASCII Delete Sum for Two Strings    Medium  
 - [ ] 713 Subarray Product Less Than K    Medium  
