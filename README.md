@@ -800,3 +800,6 @@ leetcode刷题记录
 - [x] 878 Nth Magical Number | Hard
 - [x] 885 Boats to Save People  | Medium
 - [x] 887 Projection Area of 3D Shapes | Easy
+- [x] 888 Uncommon Words from Two Sentences  | Easy
+- [x] 889 Spiral Matrix III  | Medium
+- [x] 890 Possible Bipartition | Medium
