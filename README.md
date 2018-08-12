@@ -45,7 +45,7 @@ leetcode刷题记录
 - [x] 42  Trapping Rain Water|Hard    
 - [x] 43  Multiply Strings    Medium  
 - [ ] 44  Wildcard Matching|  Hard    
-- [ ] 45  Jump Game II    Hard    
+- [x] 45  Jump Game II    Hard    
 - [x] 46  Permutations    Medium  
 - [ ] 47  Permutations II|Medium  
 - [x] 48  Rotate Image    Medium  
