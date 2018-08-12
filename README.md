@@ -354,7 +354,7 @@ leetcode刷题记录
 - [ ] 351 Android Unlock Patterns  |  Medium  
 - [ ] 352 Data Stream as Disjoint Intervals|  Hard    
 - [ ] 353 Design Snake Game  |Medium  
-- [ ] 354 Russian Doll Envelopes| Hard    
+- [x] 354 Russian Doll Envelopes| Hard    
 - [ ] 355 Design Twitter| Medium  
 - [ ] 356 Line Reflection  |  Medium  
 - [x] 357 Count Numbers with Unique Digits    Medium  
