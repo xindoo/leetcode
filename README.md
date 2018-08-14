@@ -485,7 +485,7 @@ leetcode刷题记录
 - [ ] 490 The Maze  | Medium  
 - [ ] 491 Increasing Subsequences|Medium  
 - [x] 492 Construct the Rectangle|Easy    
-- [ ] 493 Reverse Pairs|  Hard    
+- [x] 493 Reverse Pairs|  Hard    
 - [ ] 494 Target Sum| Medium  
 - [ ] 495 Teemo Attacking|Medium  
 - [ ] 496 Next Greater Element I| Easy    
