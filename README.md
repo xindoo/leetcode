@@ -770,6 +770,7 @@ leetcode刷题记录
 - [x] 807 Max Increase to Keep City Skyline  | Medium
 - [x] 816 Ambiguous Coordinates | Medium
 - [x] 819 Most Common Word | Easy
+- [x] 821 Shortest Distance to a Character | Easy
 - [x] 826 Most Profit Assigning Work|Medium	
 - [x] 830 Positions of Large Groups |Easy
 - [x] 844 Backspace String Compare| Easy
