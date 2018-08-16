@@ -623,7 +623,7 @@ leetcode刷题记录
 - [x] 643 Maximum Average Subarray I| Easy    
 - [ ] 644 Maximum Average Subarray II  |  Hard    
 - [ ] 645 Set Mismatch    Easy    
-- [ ] 646 Maximum Length of Pair Chain    Medium  
+- [x] 646 Maximum Length of Pair Chain    Medium  
 - [ ] 647 Palindromic Substrings| Medium  
 - [ ] 648 Replace Words|  Medium  
 - [ ] 649 Dota2 Senate    Medium  
