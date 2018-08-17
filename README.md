@@ -234,7 +234,7 @@ leetcode刷题记录
 - [x] 231 Power of Two    Easy    
 - [x] 232 Implement Queue using Stacks    Easy    
 - [ ] 233 Number of Digit One|Hard    
-- [ ] 234 Palindrome Linked List| Easy    
+- [x] 234 Palindrome Linked List| Easy    
 - [x] 235 Lowest Common Ancestor of a Binary Search Tree| Easy    
 - [x] 236 Lowest Common Ancestor of a Binary Tree|Medium  
 - [x] 237 Delete Node in a Linked List    Easy    
