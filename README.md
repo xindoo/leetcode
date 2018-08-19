@@ -406,7 +406,7 @@ leetcode刷题记录
 - [ ] 403 Frog Jump|  Hard    
 - [x] 404 Sum of Left Leaves| Easy    
 - [x] 405 Convert a Number to Hexadecimal|Easy    
-- [ ] 406 Queue Reconstruction by Height| Medium  
+- [x] 406 Queue Reconstruction by Height| Medium  
 - [ ] 407 Trapping Rain Water II| Hard    
 - [ ] 408 Valid Word Abbreviation  |  Easy    
 - [x] 409 Longest Palindrome| Easy    
@@ -799,8 +799,10 @@ leetcode刷题记录
 - [x] 876 Middle of the Linked List | Easy
 - [x] 877 Stone Game | Medium
 - [x] 878 Nth Magical Number | Hard
-- [x] 885 Boats to Save People  | Medium
-- [x] 887 Projection Area of 3D Shapes | Easy
-- [x] 888 Uncommon Words from Two Sentences  | Easy
-- [x] 889 Spiral Matrix III  | Medium
-- [x] 890 Possible Bipartition | Medium
+- [x] 881 Boats to Save People  | Medium
+- [x] 883 Projection Area of 3D Shapes | Easy
+- [x] 884 Uncommon Words from Two Sentences  | Easy
+- [x] 885 Spiral Matrix III  | Medium
+- [x] 896 Possible Bipartition | Medium
+- [x] 888 Fair Candy Swap | Easy
+- [x] 890 Find and Replace Pattern | Medium
