@@ -692,7 +692,7 @@ leetcode刷题记录
 - [ ] 721 Accounts Merge|Medium
 - [ ] 722 Remove Comments|Medium
 - [ ] 723 Candy Crush|Medium
-- [ ] 724 Find Pivot Index|Easy
+- [x] 724 Find Pivot Index|Easy
 - [ ] 725 Split Linked List in Parts|Medium
 - [ ] 726 Number of Atoms|Hard
 - [ ] 727 Minimum Window Subsequence|Hard
