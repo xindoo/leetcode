@@ -130,7 +130,7 @@ leetcode刷题记录
 - [ ] 127 Word Ladder|Medium  
 - [ ] 128 Longest Consecutive Sequence    Hard    
 - [x] 129 Sum Root to Leaf Numbers    Medium  
-- [ ] 130 Surrounded Regions| Medium  
+- [x] 130 Surrounded Regions| Medium  
 - [ ] 131 Palindrome Partitioning|Medium  
 - [ ] 132 Palindrome Partitioning II| Hard    
 - [ ] 133 Clone Graph|Medium  
