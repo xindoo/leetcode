@@ -421,7 +421,7 @@ leetcode刷题记录
 - [ ] 418 Sentence Screen Fitting  |  Medium  
 - [ ] 419 Battleships in a Board| Medium  
 - [ ] 420 Strong Password Checker|Hard    
-- [ ] 421 Maximum XOR of Two Numbers in an Array| Medium  
+- [x] 421 Maximum XOR of Two Numbers in an Array| Medium  
 - [ ] 422 Valid Word Square  |Easy    
 - [ ] 423 Reconstruct Original Digits from English    Medium  
 - [ ] 424 Longest Repeating Character Replacement|Medium  
@@ -632,7 +632,7 @@ leetcode刷题记录
 - [ ] 652 Find Duplicate Subtrees|Medium  
 - [ ] 653 Two Sum IV - Input is a BST|Easy    
 - [x] 654 Maximum Binary Tree|Medium  
-- [ ] 655 Print Binary Tree|  Medium  
+- [ ] 655 Print Binary Tree |  Medium  
 - [ ] 656 Coin Path  |Hard    
 - [x] 657 Judge Route Circle| Easy    
 - [ ] 658 Find K Closest Elements|Medium  
@@ -805,4 +805,4 @@ leetcode刷题记录
 - [x] 885 Spiral Matrix III  | Medium
 - [x] 896 Possible Bipartition | Medium
 - [x] 888 Fair Candy Swap | Easy
-- [x] 890 Find and Replace Pattern | Medium
+- [x] 890 Find and Replace Pattern | Medium  
