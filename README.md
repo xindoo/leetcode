@@ -734,9 +734,9 @@ leetcode刷题记录
 - [ ] 763 Partition Labels|Medium
 - [ ] 764 Largest Plus Sign|Medium
 - [ ] 765 Couples Holding Hands|Hard
-- [ ] 766 Toeplitz Matrix|Easy
-- [ ] 767 Reorganize String|Medium
-- [ ] 768 Max Chunks To Make Sorted II|Hard
+- [x] 766 Toeplitz Matrix|Easy
+- [x] 767 Reorganize String|Medium
+- [x] 768 Max Chunks To Make Sorted II|Hard
 - [x] 769 Max Chunks To Make Sorted|Medium
 - [ ] 770 Basic Calculator IV|Hard
 - [x] 771 Jewels and Stones|Easy
