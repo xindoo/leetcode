@@ -479,7 +479,7 @@ leetcode刷题记录
 - [x] 483 Smallest Good Base| Hard    
 - [ ] 484 Find Permutation  | Medium  
 - [x] 485 Max Consecutive Ones    Easy    
-- [ ] 486 Predict the Winner| Medium  
+- [x] 486 Predict the Winner| Medium  
 - [ ] 487 Max Consecutive Ones II  |  Medium  
 - [ ] 488 Zuma Game|  Hard    
 - [ ] 490 The Maze  | Medium  
@@ -806,3 +806,6 @@ leetcode刷题记录
 - [x] 896 Possible Bipartition | Medium
 - [x] 888 Fair Candy Swap | Easy
 - [x] 890 Find and Replace Pattern | Medium  
+- [x] 892 Surface Area of 3D Shapes | Easy
+- [x] 893 Groups of Special-Equivalent Strings | Easy
+- [x] 894 All Possible Full Binary Trees | Medium
