@@ -225,7 +225,7 @@ leetcode刷题记录
 - [x] 222 Count Complete Tree Nodes|  Medium  
 - [ ] 223 Rectangle Area| Medium  
 - [ ] 224 Basic Calculator    Hard    
-- [ ] 225 Implement Stack using Queues    Easy    
+- [x] 225 Implement Stack using Queues    Easy    
 - [x] 226 Invert Binary Tree| Easy    
 - [ ] 227 Basic Calculator II|Medium  
 - [ ] 228 Summary Ranges| Medium  
