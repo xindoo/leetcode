@@ -228,7 +228,7 @@ leetcode刷题记录
 - [x] 225 Implement Stack using Queues    Easy    
 - [x] 226 Invert Binary Tree| Easy    
 - [ ] 227 Basic Calculator II|Medium  
-- [ ] 228 Summary Ranges| Medium  
+- [x] 228 Summary Ranges| Medium  
 - [ ] 229 Majority Element II|Medium  
 - [x] 230 Kth Smallest Element in a BST|  Medium  
 - [x] 231 Power of Two    Easy    
