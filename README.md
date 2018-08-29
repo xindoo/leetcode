@@ -525,7 +525,7 @@ leetcode刷题记录
 - [ ] 537 Complex Number Multiplication|  Medium  
 - [x] 538 Convert BST to Greater Tree|Easy    
 - [ ] 539 Minimum Time Difference|Medium  
-- [ ] 540 Single Element in a Sorted Array    Medium  
+- [x] 540 Single Element in a Sorted Array    Medium  
 - [ ] 541 Reverse String II|  Easy    
 - [ ] 542 01 Matrix|  Medium  
 - [x] 543 Diameter of Binary Tree|Easy    
