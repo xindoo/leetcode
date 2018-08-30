@@ -545,7 +545,7 @@ leetcode刷题记录
 - [ ] 560 Subarray Sum Equals K|  Medium  
 - [ ] 561 Array Partition I|  Easy    
 - [ ] 562 Longest Line of Consecutive One in Matrix  |Medium  
-- [ ] 563 Binary Tree Tilt    Easy    
+- [x] 563 Binary Tree Tilt    Easy    
 - [ ] 564 Find the Closest Palindrome|Hard    
 - [x] 566 Reshape the Matrix| Easy    
 - [ ] 567 Permutation in String|  Medium  
