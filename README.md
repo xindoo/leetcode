@@ -686,7 +686,7 @@ leetcode刷题记录
 - [ ] 715 Range Module|Hard    
 - [ ] 716 Max Stack|Hard
 - [ ] 717 1-bit and 2-bit Characters|Easy
-- [ ] 718 Maximum Length of Repeated Subarray|Medium
+- [x] 718 Maximum Length of Repeated Subarray|Medium
 - [ ] 719 Find K-th Smallest Pair Distance|Hard
 - [ ] 720 Longest Word in Dictionary|Easy
 - [ ] 721 Accounts Merge|Medium
