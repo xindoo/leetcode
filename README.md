@@ -630,7 +630,7 @@ leetcode刷题记录
 - [ ] 650 2 Keys Keyboard|Medium  
 - [ ] 651 4 Keys Keyboard  |  Medium  
 - [ ] 652 Find Duplicate Subtrees|Medium  
-- [ ] 653 Two Sum IV - Input is a BST|Easy    
+- [x] 653 Two Sum IV - Input is a BST|Easy    
 - [x] 654 Maximum Binary Tree|Medium  
 - [ ] 655 Print Binary Tree |  Medium  
 - [ ] 656 Coin Path  |Hard    
