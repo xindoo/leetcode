@@ -810,3 +810,5 @@ leetcode刷题记录
 - [x] 892 Surface Area of 3D Shapes | Easy
 - [x] 893 Groups of Special-Equivalent Strings | Easy
 - [x] 894 All Possible Full Binary Trees | Medium
+- [x] 896 Monotonic Array | Easy
+- [x] 897 Increasing Order Search Tree | Easy
