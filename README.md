@@ -433,7 +433,7 @@ leetcode刷题记录
 - [x] 435 Non-overlapping Intervals|  Medium  
 - [ ] 436 Find Right Interval|Medium  
 - [ ] 437 Path Sum III    Easy    
-- [ ] 438 Find All Anagrams in a String|  Easy    
+- [x] 438 Find All Anagrams in a String|  Easy    
 - [ ] 439 Ternary Expression Parser  |Medium  
 - [ ] 440 K-th Smallest in Lexicographical Order| Hard    
 - [x] 441 Arranging Coins|Easy    
