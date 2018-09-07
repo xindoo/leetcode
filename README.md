@@ -711,7 +711,7 @@ leetcode刷题记录
 - [x] 740 Delete and Earn|Medium
 - [ ] 741 Cherry Pickup|Hard
 - [ ] 742 Closest Leaf in a Binary Tree|Medium
-- [ ] 743 Network Delay Time|Medium
+- [x] 743 Network Delay Time|Medium
 - [x] 744 Find Smallest Letter Greater Than Target|Easy
 - [ ] 745 Prefix and Suffix Search|Hard
 - [ ] 746 Min Cost Climbing Stairs|Easy
