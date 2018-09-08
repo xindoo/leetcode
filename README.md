@@ -30,7 +30,7 @@ leetcode刷题记录
 - [x] 27  Remove Element| Easy    
 - [x] 28  Implement strStr()| Easy    
 - [x] 29  Divide Two Integers|Medium  
-- [ ] 30  Substring with Concatenation of All Words|  Hard    
+- [x] 30  Substring with Concatenation of All Words|  Hard    
 - [x] 31  Next Permutation    Medium  
 - [x] 32  Longest Valid Parentheses|  Hard    
 - [x] 33  Search in Rotated Sorted Array| Medium  
