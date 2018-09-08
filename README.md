@@ -507,7 +507,7 @@ leetcode刷题记录
 - [ ] 517 Super Washing Machines| Hard    
 - [x] 518 Coin Change 2|  Medium  
 - [x] 520 Detect Capital| Easy    
-- [ ] 521 Longest Uncommon Subsequence I |Easy    
+- [x] 521 Longest Uncommon Subsequence I |Easy    
 - [ ] 522 Longest Uncommon Subsequence II|Medium  
 - [ ] 523 Continuous Subarray Sum|Medium  
 - [x] 524 Longest Word in Dictionary through Deleting|Medium  
