@@ -316,7 +316,7 @@ leetcode刷题记录
 - [x] 313 Super Ugly Number|  Medium  
 - [ ] 314 Binary Tree Vertical Order Traversal  | Medium  
 - [ ] 315 Count of Smaller Numbers After Self|Hard    
-- [ ] 316 Remove Duplicate Letters    Hard    
+- [x] 316 Remove Duplicate Letters    Hard    
 - [ ] 317 Shortest Distance from All Buildings  | Hard    
 - [x] 318 Maximum Product of Word Lengths|Medium  
 - [x] 319 Bulb Switcher|  Medium  
