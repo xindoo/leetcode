@@ -447,7 +447,7 @@ leetcode刷题记录
 - [ ] 450 Delete Node in a BST    Medium  
 - [ ] 451 Sort Characters By Frequency    Medium  
 - [ ] 452 Minimum Number of Arrows to Burst Balloons| Medium  
-- [ ] 453 Minimum Moves to Equal Array Elements|  Easy    
+- [x] 453 Minimum Moves to Equal Array Elements|  Easy    
 - [x] 454 4Sum II|Medium  
 - [x] 455 Assign Cookies| Easy    
 - [ ] 456 132 Pattern|Medium  
