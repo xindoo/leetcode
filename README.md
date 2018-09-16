@@ -606,7 +606,7 @@ leetcode刷题记录
 - [ ] 625 Minimum Factorization  |Medium  
 - [ ] 626 Exchange Seats| Medium  
 - [x] 627 Swap Salary|Easy    
-- [ ] 628 Maximum Product of Three Numbers    Easy    
+- [x] 628 Maximum Product of Three Numbers    Easy    
 - [ ] 629 K Inverse Pairs Array|  Hard    
 - [ ] 630 Course Schedule III|Hard    
 - [ ] 631 Design Excel Sum Formula  | Hard    
