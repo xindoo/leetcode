@@ -814,3 +814,5 @@ leetcode刷题记录
 - [x] 896 Monotonic Array | Easy
 - [x] 897 Increasing Order Search Tree | Easy
 - [x] 899 Orderly Queue | Hard
+- [x] 904 Fruit Into Baskets | Medium
+- [x] 905 Sort Array By Parity | Easy
