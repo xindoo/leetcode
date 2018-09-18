@@ -486,7 +486,7 @@ leetcode刷题记录
 - [ ] 491 Increasing Subsequences|Medium  
 - [x] 492 Construct the Rectangle|Easy    
 - [x] 493 Reverse Pairs|  Hard    
-- [ ] 494 Target Sum| Medium  
+- [x] 494 Target Sum| Medium  
 - [ ] 495 Teemo Attacking|Medium  
 - [ ] 496 Next Greater Element I| Easy    
 - [ ] 498 Diagonal Traverse|  Medium  
