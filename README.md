@@ -472,7 +472,7 @@ leetcode刷题记录
 - [x] 475 Heaters|Easy    
 - [ ] 476 Number Complement|  Easy    
 - [x] 477 Total Hamming Distance| Medium  
-- [ ] 479 Largest Palindrome Product| Easy    
+- [x] 479 Largest Palindrome Product| Easy    
 - [ ] 480 Sliding Window Median|  Hard    
 - [ ] 481 Magical String| Medium  
 - [x] 482 License Key Formatting| Medium  
