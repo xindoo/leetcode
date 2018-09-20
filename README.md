@@ -573,7 +573,7 @@ leetcode刷题记录
 - [ ] 591 Tag Validator|  Hard    
 - [ ] 592 Fraction Addition and Subtraction|  Medium  
 - [ ] 593 Valid Square    Medium  
-- [ ] 594 Longest Harmonious Subsequence| Easy    
+- [x] 594 Longest Harmonious Subsequence| Easy    
 - [x] 595 Big Countries|  Easy    
 - [ ] 596 Classes More Than 5 Students    Easy    
 - [ ] 597 Friend Requests I: Overall Acceptance Rate |Easy    
