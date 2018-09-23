@@ -816,3 +816,4 @@ leetcode刷题记录
 - [x] 899 Orderly Queue | Hard
 - [x] 904 Fruit Into Baskets | Medium
 - [x] 905 Sort Array By Parity | Easy
+- [x] 908 Smallest Range I | Easy
