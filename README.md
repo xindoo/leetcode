@@ -128,7 +128,7 @@ leetcode刷题记录
 - [x] 125 Valid Palindrome    Easy    
 - [ ] 126 Word Ladder II| Hard    
 - [ ] 127 Word Ladder|Medium  
-- [ ] 128 Longest Consecutive Sequence    Hard    
+- [x] 128 Longest Consecutive Sequence    Hard    
 - [x] 129 Sum Root to Leaf Numbers    Medium  
 - [x] 130 Surrounded Regions| Medium  
 - [ ] 131 Palindrome Partitioning|Medium  
