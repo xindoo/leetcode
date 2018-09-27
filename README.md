@@ -751,7 +751,7 @@ leetcode刷题记录
 - [ ] 780 Reaching Points|Hard
 - [ ] 781 Rabbits in Forest|Medium
 - [ ] 782 Transform to Chessboard|Hard
-- [ ] 783 Minimum Distance Between BST Nodes|Easy
+- [x] 783 Minimum Distance Between BST Nodes|Easy
 - [x] 784 Letter Case Permutation|Easy
 - [x] 785 Is Graph Bipartite?|Medium
 - [ ] 786 K-th Smallest Prime Fraction|Hard
