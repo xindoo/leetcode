@@ -572,7 +572,7 @@ leetcode刷题记录
 - [ ] 588 Design In-Memory File System  | Hard    
 - [ ] 591 Tag Validator|  Hard    
 - [ ] 592 Fraction Addition and Subtraction|  Medium  
-- [ ] 593 Valid Square    Medium  
+- [x] 593 Valid Square    Medium  
 - [x] 594 Longest Harmonious Subsequence| Easy    
 - [x] 595 Big Countries|  Easy    
 - [ ] 596 Classes More Than 5 Students    Easy    
