@@ -817,3 +817,4 @@ leetcode刷题记录
 - [x] 904 Fruit Into Baskets | Medium
 - [x] 905 Sort Array By Parity | Easy
 - [x] 908 Smallest Range I | Easy
+- [x] 914 X of a Kind in a Deck of Cards | Easy
