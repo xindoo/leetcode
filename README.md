@@ -397,7 +397,7 @@ leetcode刷题记录
 - [ ] 394 Decode String|  Medium  
 - [x] 395 Longest Substring with At Least K Repeating Characters| Medium  
 - [x] 396 Rotate Function|Medium  
-- [ ] 397 Integer Replacement|Medium  
+- [x] 397 Integer Replacement|Medium  
 - [ ] 398 Random Pick Index|  Medium  
 - [ ] 399 Evaluate Division|  Medium  
 - [ ] 400 Nth Digit|  Easy    
