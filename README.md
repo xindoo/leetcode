@@ -655,7 +655,7 @@ leetcode刷题记录
 - [ ] 675 Cut Off Trees for Golf Event    Hard    
 - [ ] 676 Implement Magic Dictionary| Medium  
 - [ ] 677 Map Sum Pairs|  Medium  
-- [ ] 678 Valid Parenthesis String    Medium  
+- [x] 678 Valid Parenthesis String  |  Medium  
 - [ ] 679 24 Game|Hard    
 - [x] 680 Valid Palindrome II|Easy    
 - [ ] 681 Next Closest Time|  Medium  
