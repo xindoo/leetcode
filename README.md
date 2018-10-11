@@ -647,7 +647,7 @@ leetcode刷题记录
 - [ ] 667 Beautiful Arrangement II    Medium  
 - [ ] 668 Kth Smallest Number in Multiplication Table|Hard    
 - [x] 669 Trim a Binary Search Tree|  Easy    
-- [ ] 670 Maximum Swap    Medium  
+- [x] 670 Maximum Swap    Medium  
 - [x] 671 Second Minimum Node In a Binary Tree    Easy    
 - [ ] 672 Bulb Switcher II    Medium  
 - [ ] 673 Number of Longest Increasing Subsequence    Medium  
