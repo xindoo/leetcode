@@ -289,7 +289,7 @@ leetcode刷题记录
 - [ ] 286 Walls and Gates  |  Medium  
 - [x] 287 Find the Duplicate Number|  Medium  
 - [ ] 288 Unique Word Abbreviation  | Medium  
-- [ ] 289 Game of Life    Medium  
+- [x] 289 Game of Life    Medium  
 - [x] 290 Word Pattern    Easy    
 - [ ] 291 Word Pattern II  |  Hard    
 - [x] 292 Nim Game    Easy    
