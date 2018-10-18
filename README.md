@@ -638,7 +638,7 @@ leetcode刷题记录
 - [ ] 658 Find K Closest Elements|Medium  
 - [x] 659 Split Array into Consecutive Subsequences|  Medium  
 - [ ] 660 Remove 9  | Hard    
-- [ ] 661 Image Smoother| Easy    
+- [x] 661 Image Smoother| Easy    
 - [ ] 662 Maximum Width of Binary Tree    Medium  
 - [ ] 663 Equal Tree Partition  | Medium  
 - [ ] 664 Strange Printer|Hard    
