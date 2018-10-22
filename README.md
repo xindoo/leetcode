@@ -765,6 +765,7 @@ leetcode刷题记录
 - [x] 795 Number of Subarrays with Bounded Maximum   |  Medium  
 - [x] 796 Rotate String|Easy
 - [x] 797 All Paths From Source to Target | Medium
+- [x] 802 Find Eventual Safe States | Medium
 - [x] 804 Unique Morse Code Words  |  Easy
 - [x] 805 Split Array With Same Average   |  Hard
 - [x] 806 Number of Lines To Write String  |  Easy
