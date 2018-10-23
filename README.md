@@ -505,7 +505,8 @@ leetcode刷题记录
 - [x] 515 Find Largest Value in Each Tree Row|Medium  
 - [ ] 516 Longest Palindromic Subsequence|Medium  
 - [ ] 517 Super Washing Machines| Hard    
-- [x] 518 Coin Change 2|  Medium  
+- [x] 518 Coin Change 2 |  Medium  
+- [x] 519 Random Flip Matrix  | Medium
 - [x] 520 Detect Capital| Easy    
 - [x] 521 Longest Uncommon Subsequence I |Easy    
 - [ ] 522 Longest Uncommon Subsequence II|Medium  
