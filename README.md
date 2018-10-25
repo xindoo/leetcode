@@ -586,7 +586,7 @@ leetcode刷题记录
 - [ ] 603 Consecutive Available Seats  |  Easy    
 - [ ] 604 Design Compressed String Iterator  |Easy    
 - [ ] 605 Can Place Flowers|  Easy    
-- [ ] 606 Construct String from Binary Tree|  Easy    
+- [x] 606 Construct String from Binary Tree|  Easy    
 - [ ] 607 Sales Person  | Easy    
 - [ ] 608 Tree Node  |Medium  
 - [ ] 609 Find Duplicate File in System|  Medium  
