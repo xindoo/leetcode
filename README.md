@@ -619,7 +619,8 @@ leetcode刷题记录
 - [ ] 637 Average of Levels in Binary Tree    Easy    
 - [ ] 638 Shopping Offers|Medium  
 - [ ] 639 Decode Ways II| Hard    
-- [x] 640 Solve the Equation| Medium  
+- [x] 640 Solve the Equation  | Medium  
+- [x] 641 Design Circular Deque.md  | Medium
 - [ ] 642 Design Search Autocomplete System  |Hard    
 - [x] 643 Maximum Average Subarray I| Easy    
 - [ ] 644 Maximum Average Subarray II  |  Hard    
