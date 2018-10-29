@@ -444,7 +444,7 @@ leetcode刷题记录
 - [x] 447 Number of Boomerangs    Easy    
 - [x] 448 Find All Numbers Disappeared in an Array    Easy    
 - [x] 449 Serialize and Deserialize BST|  Medium  
-- [ ] 450 Delete Node in a BST    Medium  
+- [x] 450 Delete Node in a BST  |  Medium  
 - [ ] 451 Sort Characters By Frequency    Medium  
 - [ ] 452 Minimum Number of Arrows to Burst Balloons| Medium  
 - [x] 453 Minimum Moves to Equal Array Elements|  Easy    
