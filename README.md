@@ -690,7 +690,7 @@ leetcode刷题记录
 - [ ] 717 1-bit and 2-bit Characters|Easy
 - [x] 718 Maximum Length of Repeated Subarray|Medium
 - [ ] 719 Find K-th Smallest Pair Distance|Hard
-- [ ] 720 Longest Word in Dictionary|Easy
+- [x] 720 Longest Word in Dictionary | Easy
 - [ ] 721 Accounts Merge|Medium
 - [ ] 722 Remove Comments|Medium
 - [ ] 723 Candy Crush|Medium
