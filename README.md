@@ -597,7 +597,7 @@ leetcode刷题记录
 - [ ] 614 Second Degree Follower |Medium  
 - [ ] 615 Average Salary: Departments VS Company |Hard    
 - [ ] 616 Add Bold Tag in String |Medium  
-- [ ] 617 Merge Two Binary Trees| Easy    
+- [x] 617 Merge Two Binary Trees| Easy    
 - [ ] 618 Students Report By Geography  | Hard    
 - [ ] 619 Biggest Single Number  |Easy    
 - [ ] 620 Not Boring Movies|  Easy    
