@@ -661,7 +661,7 @@ leetcode刷题记录
 - [ ] 679 24 Game|Hard    
 - [x] 680 Valid Palindrome II|Easy    
 - [ ] 681 Next Closest Time|  Medium  
-- [ ] 682 Baseball Game|  Easy    
+- [x] 682 Baseball Game|  Easy    
 - [ ] 683 K Empty Slots|  Hard    
 - [ ] 684 Redundant Connection    Medium  
 - [ ] 685 Redundant Connection II|Hard    
