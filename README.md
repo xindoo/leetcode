@@ -665,9 +665,9 @@ leetcode刷题记录
 - [ ] 683 K Empty Slots|  Hard    
 - [ ] 684 Redundant Connection    Medium  
 - [ ] 685 Redundant Connection II|Hard    
-- [x] 686 Repeated String Match|  Easy    
-- [ ] 687 Longest Univalue Path|  Easy    
-- [ ] 688 Knight Probability in Chessboard    Medium  
+- [x] 686 Repeated String Match |  Easy    
+- [ ] 687 Longest Univalue Path |  Easy    
+- [x] 688 Knight Probability in Chessboard  |   Medium  
 - [ ] 689 Maximum Sum of 3 Non-Overlapping Subarrays| Hard    
 - [x] 690 Employee Importance|Easy    
 - [ ] 691 Stickers to Spell Word| Hard    
