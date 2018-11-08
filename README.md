@@ -489,7 +489,7 @@ leetcode刷题记录
 - [x] 494 Target Sum| Medium  
 - [ ] 495 Teemo Attacking|Medium  
 - [ ] 496 Next Greater Element I| Easy    
-- [ ] 498 Diagonal Traverse|  Medium  
+- [x] 498 Diagonal Traverse|  Medium  
 - [ ] 499 The Maze III  | Hard    
 - [x] 500 Keyboard Row    Easy    
 - [ ] 501 Find Mode in Binary Search Tree|Easy    
