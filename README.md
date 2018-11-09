@@ -612,7 +612,7 @@ leetcode刷题记录
 - [ ] 630 Course Schedule III|Hard    
 - [ ] 631 Design Excel Sum Formula  | Hard    
 - [ ] 632 Smallest Range| Hard    
-- [ ] 633 Sum of Square Numbers|  Easy    
+- [x] 633 Sum of Square Numbers|  Easy    
 - [ ] 634 Find the Derangement of An Array  | Medium  
 - [ ] 635 Design Log Storage System  |Medium  
 - [x] 636 Exclusive Time of Functions|Medium  
