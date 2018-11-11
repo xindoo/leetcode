@@ -541,7 +541,7 @@ leetcode刷题记录
 - [ ] 553 Optimal Division    Medium  
 - [ ] 554 Brick Wall| Medium  
 - [ ] 555 Split Concatenated Strings |Medium  
-- [ ] 556 Next Greater Element III    Medium  
+- [x] 556 Next Greater Element III  |  Medium  
 - [ ] 557 Reverse Words in a String III|  Easy    
 - [ ] 560 Subarray Sum Equals K|  Medium  
 - [ ] 561 Array Partition I|  Easy    
