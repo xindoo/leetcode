@@ -470,7 +470,7 @@ leetcode刷题记录
 - [ ] 473 Matchsticks to Square|  Medium  
 - [x] 474 Ones and Zeroes|Medium  
 - [x] 475 Heaters|Easy    
-- [ ] 476 Number Complement|  Easy    
+- [x] 476 Number Complement|  Easy    
 - [x] 477 Total Hamming Distance| Medium  
 - [x] 479 Largest Palindrome Product| Easy    
 - [ ] 480 Sliding Window Median|  Hard    
