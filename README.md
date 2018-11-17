@@ -61,7 +61,7 @@ leetcode刷题记录
 - [x] 58  Length of Last Word|Easy    
 - [x] 59  Spiral Matrix II    Medium  
 - [ ] 60  Permutation Sequence    Medium  
-- [ ] 61  Rotate List|Medium  
+- [x] 61  Rotate List|Medium  
 - [x] 62  Unique Paths    Medium  
 - [x] 63  Unique Paths II|Medium  
 - [ ] 64  Minimum Path Sum    Medium  
