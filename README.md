@@ -835,3 +835,4 @@ leetcode刷题记录
 - [x] 933 Number of Recent Calls | Easy
 - [x] 935 Knight Dialer | Medium
 - [x] 938 Range Sum of BST | Medium
+- [x] 942 DI String Match | Easy
