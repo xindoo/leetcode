@@ -836,3 +836,4 @@ leetcode刷题记录
 - [x] 935 Knight Dialer | Medium
 - [x] 938 Range Sum of BST | Medium
 - [x] 942 DI String Match | Easy
+- [x] 944 Delete Columns to Make Sorted | Medium
