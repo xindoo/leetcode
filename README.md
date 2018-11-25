@@ -838,3 +838,4 @@ leetcode刷题记录
 - [x] 941. Valid Mountain Array | Easy
 - [x] 942 DI String Match | Easy
 - [x] 944 Delete Columns to Make Sorted | Medium
+- [x] 946 Validate Stack Sequences | Medium
