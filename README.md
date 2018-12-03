@@ -839,3 +839,4 @@ leetcode刷题记录
 - [x] 942 DI String Match | Easy
 - [x] 944 Delete Columns to Make Sorted | Medium
 - [x] 946 Validate Stack Sequences | Medium
+- [x] 949 Largest Time for Given Digits | Easy
