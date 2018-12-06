@@ -428,7 +428,7 @@ leetcode刷题记录
 - [ ] 425 Word Squares  | Hard    
 - [x] 430 Flatten a Multilevel Doubly Linked List  | Medium
 - [ ] 432 All O`one Data Structure    Hard    
-- [ ] 433 Minimum Genetic Mutation    Medium  
+- [x] 433 Minimum Genetic Mutation    Medium  
 - [ ] 434 Number of Segments in a String| Easy    
 - [x] 435 Non-overlapping Intervals|  Medium  
 - [ ] 436 Find Right Interval | Medium  
