@@ -776,6 +776,7 @@ leetcode刷题记录
 - [x] 819 Most Common Word | Easy
 - [x] 820 Short Encoding of Words | Medium
 - [x] 821 Shortest Distance to a Character | Easy
+- [x] 824 Goat Latin | Easy
 - [x] 826 Most Profit Assigning Work|Medium	
 - [x] 830 Positions of Large Groups | Easy
 - [x] 836 Rectangle Overlap  | Easy 
