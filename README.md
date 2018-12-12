@@ -306,7 +306,7 @@ leetcode刷题记录
 - [x] 303 Range Sum Query - Immutable|Easy    
 - [x] 304 Range Sum Query 2D - Immutable| Medium  
 - [ ] 305 Number of Islands II  | Hard    
-- [ ] 306 Additive Number|Medium  
+- [x] 306 Additive Number|Medium  
 - [x] 307 Range Sum Query - Mutable|  Medium  
 - [ ] 308 Range Sum Query 2D - Mutable  | Hard    
 - [x] 309 Best Time to Buy and Sell Stock with Cooldown|  Medium  
