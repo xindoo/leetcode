@@ -779,6 +779,7 @@ leetcode刷题记录
 - [x] 824 Goat Latin | Easy
 - [x] 826 Most Profit Assigning Work|Medium	
 - [x] 830 Positions of Large Groups | Easy
+- [x] 835 Image Overlap | Medium
 - [x] 836 Rectangle Overlap  | Easy 
 - [x] 844 Backspace String Compare| Easy
 - [x] 845 Longest Mountain in Array | Medium
