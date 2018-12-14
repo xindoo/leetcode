@@ -176,7 +176,7 @@ leetcode刷题记录
 - [ ] 173 Binary Search Tree Iterator|Medium  
 - [ ] 174 Dungeon Game    Hard    
 - [ ] 175 Combine Two Tables| Easy    
-- [ ] 176 Second Highest Salary|  Easy    
+- [x] 176 Second Highest Salary|  Easy    
 - [ ] 177 Nth Highest Salary| Medium  
 - [ ] 178 Rank Scores|Medium  
 - [x] 179 Largest Number| Medium  
