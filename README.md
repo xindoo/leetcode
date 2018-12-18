@@ -772,6 +772,7 @@ leetcode刷题记录
 - [x] 805 Split Array With Same Average   |  Hard
 - [x] 806 Number of Lines To Write String  |  Easy
 - [x] 807 Max Increase to Keep City Skyline  | Medium
+- [x] 812 Largest Triangle Area | Easy
 - [x] 816 Ambiguous Coordinates | Medium
 - [x] 819 Most Common Word | Easy
 - [x] 820 Short Encoding of Words | Medium
