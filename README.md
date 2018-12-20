@@ -341,7 +341,7 @@ leetcode刷题记录
 - [x] 338 Counting Bits|  Medium  
 - [ ] 339 Nested List Weight Sum |Easy    
 - [ ] 340 Longest Substring with At Most K Distinct Characters  | Hard    
-- [ ] 341 Flatten Nested List Iterator    Medium  
+- [x] 341 Flatten Nested List Iterator    Medium  
 - [x] 342 Power of Four|  Easy    
 - [x] 343 Integer Break|  Medium  
 - [x] 344 Reverse String| Easy    
