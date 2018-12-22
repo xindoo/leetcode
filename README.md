@@ -437,7 +437,7 @@ leetcode刷题记录
 - [ ] 439 Ternary Expression Parser  | Medium  
 - [ ] 440 K-th Smallest in Lexicographical Order| Hard    
 - [x] 441 Arranging Coins|Easy    
-- [ ] 442 Find All Duplicates in an Array|Medium  
+- [x] 442 Find All Duplicates in an Array|Medium  
 - [ ] 444 Sequence Reconstruction  |  Medium  
 - [x] 445 Add Two Numbers II| Medium  
 - [ ] 446 Arithmetic Slices II - Subsequence| Hard    
