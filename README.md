@@ -330,7 +330,7 @@ leetcode刷题记录
 - [ ] 327 Count of Range Sum| Hard    
 - [x] 328 Odd Even Linked List    Medium  
 - [ ] 329 Longest Increasing Path in a Matrix|Hard    
-- [ ] 330 Patching Array| Hard    
+- [x] 330 Patching Array| Hard    
 - [x] 331 Verify Preorder Serialization of a Binary Tree| Medium  
 - [ ] 332 Reconstruct Itinerary|  Medium  
 - [ ] 333 Largest BST Subtree  |  Medium  
