@@ -847,4 +847,4 @@ leetcode刷题记录
 - [x] 951 Flip Equivalent Binary Trees | Medium
 - [x] 953 Verifying an Alien Dictionary | Easy
 - [x] 954 Array of Doubled Pairs | Medium
-- [ ] 955 Delete Columns to Make Sorted II | Medium
+- [x] 955 Delete Columns to Make Sorted II | Medium
