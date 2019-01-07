@@ -570,7 +570,8 @@ leetcode刷题记录
 - [ ] 585 Investments in 2016  |  Medium  
 - [ ] 586 Customer Placing the Largest Number of Orders  |Easy    
 - [ ] 587 Erect the Fence|Hard    
-- [ ] 588 Design In-Memory File System  | Hard    
+- [ ] 588 Design In-Memory File System  | Hard   
+- [x] 590 N-ary Tree Postorder Traversal | Easy 
 - [ ] 591 Tag Validator|  Hard    
 - [ ] 592 Fraction Addition and Subtraction|  Medium  
 - [x] 593 Valid Square  |  Medium  
