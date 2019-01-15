@@ -855,3 +855,4 @@ leetcode刷题记录
 - [x] 965 Univalued Binary Tree | Easy 
 - [x] 969 Pancake Sorting |Medium
 - [x] 970 Powerful Integers | Easy
+- [x] 973 K Closest Points to Origin | Easy
