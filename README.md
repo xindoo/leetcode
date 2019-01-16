@@ -710,7 +710,7 @@ leetcode刷题记录
 - [ ] 736 Parse Lisp Expression|Hard
 - [ ] 737 Sentence Similarity II|Medium
 - [ ] 738 Monotone Increasing Digits|Medium
-- [ ] 739 Daily Temperatures|Medium
+- [x] 739 Daily Temperatures|Medium
 - [x] 740 Delete and Earn|Medium
 - [ ] 741 Cherry Pickup|Hard
 - [ ] 742 Closest Leaf in a Binary Tree|Medium
