@@ -382,7 +382,7 @@ leetcode刷题记录
 - [ ] 379 Design Phone Directory |Medium  
 - [ ] 380 Insert Delete GetRandom O(1)    Medium  
 - [ ] 381 Insert Delete GetRandom O(1) - Duplicates allowed|  Hard    
-- [ ] 382 Linked List Random Node|Medium  
+- [x] 382 Linked List Random Node|Medium  
 - [x] 383 Ransom Note|Easy    
 - [ ] 384 Shuffle an Array    Medium  
 - [ ] 385 Mini Parser|Medium  
