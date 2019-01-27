@@ -860,3 +860,4 @@ leetcode刷题记录
 - [x] 976 Largest Perimeter Triangle | Easy
 - [x] 977 Squares of a Sorted Array | Easy
 - [x] 979 Distribute Coins in Binary Tree | Medium
+- [x] 984 String Without AAA or BBB | Easy
