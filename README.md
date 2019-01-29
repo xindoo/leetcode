@@ -483,7 +483,7 @@ leetcode刷题记录
 - [ ] 487 Max Consecutive Ones II  |  Medium  
 - [ ] 488 Zuma Game|  Hard    
 - [ ] 490 The Maze  | Medium  
-- [ ] 491 Increasing Subsequences|Medium  
+- [x] 491 Increasing Subsequences | Medium  
 - [x] 492 Construct the Rectangle|Easy    
 - [x] 493 Reverse Pairs|  Hard    
 - [x] 494 Target Sum| Medium  
