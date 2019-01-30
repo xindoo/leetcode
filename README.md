@@ -315,7 +315,7 @@ leetcode刷题记录
 - [ ] 312 Burst Balloons| Hard    
 - [x] 313 Super Ugly Number|  Medium  
 - [ ] 314 Binary Tree Vertical Order Traversal  | Medium  
-- [ ] 315 Count of Smaller Numbers After Self|Hard    
+- [x] 315 Count of Smaller Numbers After Self|Hard    
 - [x] 316 Remove Duplicate Letters    Hard    
 - [ ] 317 Shortest Distance from All Buildings  | Hard    
 - [x] 318 Maximum Product of Word Lengths|Medium  
