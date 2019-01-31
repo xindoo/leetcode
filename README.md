@@ -194,7 +194,7 @@ leetcode刷题记录
 - [x] 191 Number of 1 Bits    Easy    
 - [x] 192 Word Frequency| Medium  
 - [x] 193 Valid Phone Numbers|Easy    
-- [ ] 194 Transpose File| Medium  
+- [x] 194 Transpose File| Medium  
 - [x] 195 Tenth Line| Easy    
 - [x] 196 Delete Duplicate Emails|Easy    
 - [x] 197 Rising Temperature| Easy    
