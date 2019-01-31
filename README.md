@@ -18,15 +18,15 @@ leetcode刷题记录
 - [x] 15  3Sum    Medium  
 - [x] 16  3Sum Closest    Medium  
 - [x] 17  Letter Combinations of a Phone Number|  Medium  
-- [ ] 18  4Sum    Medium  
-- [x] 19  Remove Nth Node From End of List    Medium  
+- [x] 18  4Sum |   Medium  
+- [x] 19  Remove Nth Node From End of List  |  Medium  
 - [x] 20  Valid Parentheses|  Easy    
 - [x] 21  Merge Two Sorted Lists| Easy    
-- [x] 22  Generate Parentheses    Medium  
-- [x] 23  Merge k Sorted Lists    Hard    
-- [x] 24  Swap Nodes in Pairs|Medium  
-- [x] 25  Reverse Nodes in k-Group    Hard    
-- [x] 26  Remove Duplicates from Sorted Array|Easy    
+- [x] 22  Generate Parentheses  |  Medium  
+- [x] 23  Merge k Sorted Lists  |  Hard    
+- [x] 24  Swap Nodes in Pairs | Medium  
+- [x] 25  Reverse Nodes in k-Group  |  Hard    
+- [x] 26  Remove Duplicates from Sorted Array | Easy    
 - [x] 27  Remove Element| Easy    
 - [x] 28  Implement strStr()| Easy    
 - [x] 29  Divide Two Integers|Medium  
