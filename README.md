@@ -563,7 +563,7 @@ leetcode刷题记录
 - [ ] 578 Get Highest Answer Rate Question  | Medium  
 - [ ] 579 Find Cumulative Salary of an Employee  |Hard    
 - [ ] 580 Count Student Number in Departments  |  Medium  
-- [ ] 581 Shortest Unsorted Continuous Subarray|  Easy    
+- [x] 581 Shortest Unsorted Continuous Subarray|  Easy    
 - [ ] 582 Kill Process  | Medium  
 - [ ] 583 Delete Operation for Two Strings    Medium  
 - [ ] 584 Find Customer Referee  |Easy    
