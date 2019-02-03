@@ -717,7 +717,7 @@ leetcode刷题记录
 - [x] 743 Network Delay Time|Medium
 - [x] 744 Find Smallest Letter Greater Than Target|Easy
 - [ ] 745 Prefix and Suffix Search|Hard
-- [ ] 746 Min Cost Climbing Stairs|Easy
+- [x] 746 Min Cost Climbing Stairs|Easy
 - [x] 747 Largest Number At Least Twice of Others|Easy
 - [ ] 748 Shortest Completing Word|Medium
 - [ ] 749 Contain Virus|Hard
