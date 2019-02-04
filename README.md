@@ -861,3 +861,4 @@ leetcode刷题记录
 - [x] 977 Squares of a Sorted Array | Easy
 - [x] 979 Distribute Coins in Binary Tree | Medium
 - [x] 984 String Without AAA or BBB | Easy
+- [x] 985  Sum of Even Numbers After Queries  | Easy
