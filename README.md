@@ -863,3 +863,4 @@ leetcode刷题记录
 - [x] 984 String Without AAA or BBB | Easy
 - [x] 985 Sum of Even Numbers After Queries  | Easy
 - [x] 986 Interval List Intersections | Medium
+- [x] 988 Smallest String Starting From Leaf | Medium
