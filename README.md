@@ -864,3 +864,4 @@ leetcode刷题记录
 - [x] 985 Sum of Even Numbers After Queries  | Easy
 - [x] 986 Interval List Intersections | Medium
 - [x] 988 Smallest String Starting From Leaf | Medium
+- [x] 987 Vertical Order Traversal of a Binary Tree | Medium
