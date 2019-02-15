@@ -403,7 +403,7 @@ leetcode刷题记录
 - [ ] 400 Nth Digit|  Easy    
 - [x] 401 Binary Watch    Easy    
 - [x] 402 Remove K Digits|Medium  
-- [ ] 403 Frog Jump|  Hard    
+- [x] 403 Frog Jump|  Hard    
 - [x] 404 Sum of Left Leaves| Easy    
 - [x] 405 Convert a Number to Hexadecimal|Easy    
 - [x] 406 Queue Reconstruction by Height| Medium  
