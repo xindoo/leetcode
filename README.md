@@ -398,7 +398,7 @@ leetcode刷题记录
 - [x] 395 Longest Substring with At Least K Repeating Characters| Medium  
 - [x] 396 Rotate Function|Medium  
 - [x] 397 Integer Replacement|Medium  
-- [ ] 398 Random Pick Index|  Medium  
+- [x] 398 Random Pick Index|  Medium  
 - [ ] 399 Evaluate Division|  Medium  
 - [ ] 400 Nth Digit|  Easy    
 - [x] 401 Binary Watch    Easy    
