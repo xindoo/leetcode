@@ -866,3 +866,4 @@ leetcode刷题记录
 - [x] 986 Interval List Intersections | Medium
 - [x] 988 Smallest String Starting From Leaf | Medium
 - [x] 987 Vertical Order Traversal of a Binary Tree | Medium
+- [x] 993 Cousins in Binary Tree | Easy
