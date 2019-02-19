@@ -72,7 +72,7 @@ leetcode刷题记录
 - [x] 69  Sqrt(x)|Easy    
 - [x] 70  Climbing Stairs|Easy    
 - [ ] 71  Simplify Path|  Medium  
-- [ ] 72  Edit Distance|  Hard    
+- [x] 72  Edit Distance|  Hard    
 - [x] 73  Set Matrix Zeroes|  Medium  
 - [x] 74  Search a 2D Matrix| Medium  
 - [x] 75  Sort Colors|Medium  
