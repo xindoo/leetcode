@@ -861,6 +861,7 @@ leetcode刷题记录
 - [x] 977 Squares of a Sorted Array | Easy
 - [x] 979 Distribute Coins in Binary Tree | Medium
 - [x] 983 Minimum Cost For Tickets | Medium 
+- [x] 982 Triples with Bitwise AND Equal To Zero | Hard
 - [x] 984 String Without AAA or BBB | Easy
 - [x] 985 Sum of Even Numbers After Queries  | Easy
 - [x] 986 Interval List Intersections | Medium
