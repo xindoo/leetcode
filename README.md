@@ -869,3 +869,4 @@ leetcode刷题记录
 - [x] 987 Vertical Order Traversal of a Binary Tree | Medium
 - [x] 993 Cousins in Binary Tree | Easy
 - [x] 997 Find the Town Judge | Easy
+- [x] 998 Maximum Binary Tree II  | Medium
