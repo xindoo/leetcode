@@ -868,5 +868,6 @@ leetcode刷题记录
 - [x] 988 Smallest String Starting From Leaf | Medium
 - [x] 987 Vertical Order Traversal of a Binary Tree | Medium
 - [x] 993 Cousins in Binary Tree | Easy
+- [x] 995 Minimum Number of K Consecutive Bit Flips | Medium
 - [x] 997 Find the Town Judge | Easy
 - [x] 998 Maximum Binary Tree II  | Medium
