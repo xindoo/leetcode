@@ -872,3 +872,4 @@ leetcode刷题记录
 - [x] 995 Minimum Number of K Consecutive Bit Flips | Medium
 - [x] 997 Find the Town Judge | Easy
 - [x] 998 Maximum Binary Tree II  | Medium
+- [x] 1003 Check If Word Is Valid After Substitutions | Medium
