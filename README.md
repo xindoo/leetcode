@@ -873,3 +873,4 @@ leetcode刷题记录
 - [x] 997 Find the Town Judge | Easy
 - [x] 998 Maximum Binary Tree II  | Medium
 - [x] 1003 Check If Word Is Valid After Substitutions | Medium
+- [x] 1004 Max Consecutive Ones III | Medium
