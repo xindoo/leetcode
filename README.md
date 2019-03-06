@@ -528,7 +528,7 @@ leetcode刷题记录
 - [ ] 539 Minimum Time Difference|Medium  
 - [x] 540 Single Element in a Sorted Array    Medium  
 - [ ] 541 Reverse String II|  Easy    
-- [ ] 542 01 Matrix|  Medium  
+- [x] 542 01 Matrix|  Medium  
 - [x] 543 Diameter of Binary Tree|Easy    
 - [ ] 544 Output Contest Matches |Medium  
 - [ ] 545 Boundary of Binary Tree  |  Medium  
