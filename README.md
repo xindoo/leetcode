@@ -177,7 +177,7 @@ leetcode刷题记录
 - [ ] 174 Dungeon Game    Hard    
 - [ ] 175 Combine Two Tables| Easy    
 - [x] 176 Second Highest Salary|  Easy    
-- [ ] 177 Nth Highest Salary| Medium  
+- [x] 177 Nth Highest Salary| Medium  
 - [ ] 178 Rank Scores|Medium  
 - [x] 179 Largest Number| Medium  
 - [ ] 180 Consecutive Numbers|Medium  
