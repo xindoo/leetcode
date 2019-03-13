@@ -877,3 +877,4 @@ leetcode刷题记录
 - [x] 1004 Max Consecutive Ones III | Medium
 - [x] 1005 Maximize Sum Of Array After K Negations | Easy
 - [x] 1008 Construct Binary Search Tree from Preorder Traversal | Medium
+- [x] 1006 Clumsy Factorial | Medium
