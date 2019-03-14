@@ -664,7 +664,7 @@ leetcode刷题记录
 - [ ] 681 Next Closest Time|  Medium  
 - [x] 682 Baseball Game|  Easy    
 - [ ] 683 K Empty Slots|  Hard    
-- [ ] 684 Redundant Connection    Medium  
+- [x] 684 Redundant Connection    Medium  
 - [ ] 685 Redundant Connection II|Hard    
 - [x] 686 Repeated String Match |  Easy    
 - [ ] 687 Longest Univalue Path |  Easy    
