@@ -672,7 +672,7 @@ leetcode刷题记录
 - [ ] 689 Maximum Sum of 3 Non-Overlapping Subarrays| Hard    
 - [x] 690 Employee Importance|Easy    
 - [ ] 691 Stickers to Spell Word| Hard    
-- [ ] 692 Top K Frequent Words    Medium  
+- [x] 692 Top K Frequent Words  |  Medium  
 - [ ] 693 Binary Number with Alternating Bits|Easy    
 - [ ] 694 Number of Distinct Islands |Medium  
 - [x] 695 Max Area of Island| Easy    
