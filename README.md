@@ -539,7 +539,7 @@ leetcode刷题记录
 - [ ] 551 Student Attendance Record I|Easy    
 - [ ] 552 Student Attendance Record II    Hard    
 - [ ] 553 Optimal Division    Medium  
-- [ ] 554 Brick Wall| Medium  
+- [x] 554 Brick Wall |  Medium  
 - [ ] 555 Split Concatenated Strings |Medium  
 - [x] 556 Next Greater Element III  |  Medium  
 - [ ] 557 Reverse Words in a String III|  Easy    
