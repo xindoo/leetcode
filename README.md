@@ -373,7 +373,7 @@ leetcode刷题记录
 - [ ] 370 Range Addition |Medium  
 - [x] 371 Sum of Two Integers|Easy    
 - [x] 372 Super Pow|  Medium  
-- [ ] 373 Find K Pairs with Smallest Sums|Medium  
+- [x] 373 Find K Pairs with Smallest Sums|Medium  
 - [x] 374 Guess Number Higher or Lower    Easy    
 - [ ] 375 Guess Number Higher or Lower II|Medium  
 - [ ] 376 Wiggle Subsequence| Medium  
