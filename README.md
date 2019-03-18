@@ -734,7 +734,7 @@ leetcode刷题记录
 - [ ] 760 Find Anagram Mappings|Easy
 - [ ] 761 Special Binary String|Hard
 - [ ] 762 Prime Number of Set Bits in Binary Representation|Easy
-- [ ] 763 Partition Labels|Medium
+- [x] 763 Partition Labels   |   Medium
 - [ ] 764 Largest Plus Sign|Medium
 - [ ] 765 Couples Holding Hands|Hard
 - [x] 766 Toeplitz Matrix|Easy
