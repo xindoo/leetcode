@@ -431,7 +431,7 @@ leetcode刷题记录
 - [x] 433 Minimum Genetic Mutation    Medium  
 - [ ] 434 Number of Segments in a String| Easy    
 - [x] 435 Non-overlapping Intervals|  Medium  
-- [ ] 436 Find Right Interval | Medium  
+- [x] 436 Find Right Interval | Medium  
 - [x] 437 Path Sum III   |  Easy    
 - [x] 438 Find All Anagrams in a String |  Easy    
 - [ ] 439 Ternary Expression Parser  | Medium  
