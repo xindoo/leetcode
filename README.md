@@ -147,7 +147,7 @@ leetcode刷题记录
 - [x] 144 Binary Tree Preorder Traversal| Medium  
 - [x] 145 Binary Tree Postorder Traversal|Hard    
 - [x] 146 LRU Cache|  Hard    
-- [ ] 147 Insertion Sort List|Medium  
+- [x] 147 Insertion Sort List|Medium  
 - [x] 148 Sort List|  Medium  
 - [ ] 149 Max Points on a Line    Hard    
 - [x] 150 Evaluate Reverse Polish Notation    Medium  
