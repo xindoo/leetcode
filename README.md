@@ -544,7 +544,7 @@ leetcode刷题记录
 - [x] 556 Next Greater Element III  |  Medium  
 - [ ] 557 Reverse Words in a String III|  Easy    
 - [ ] 560 Subarray Sum Equals K|  Medium  
-- [ ] 561 Array Partition I|  Easy    
+- [x] 561 Array Partition I|  Easy    
 - [ ] 562 Longest Line of Consecutive One in Matrix  |Medium  
 - [x] 563 Binary Tree Tilt    Easy    
 - [ ] 564 Find the Closest Palindrome|Hard    
