@@ -725,7 +725,7 @@ leetcode刷题记录
 - [ ] 750 Number Of Corner Rectangles|Medium
 - [ ] 751 IP to CIDR|Easy
 - [ ] 752 Open the Lock|Medium
-- [ ] 753 Cracking the Safe|Hard
+- [x] 753 Cracking the Safe|Hard
 - [x] 754 Reach a Number | Easy
 - [ ] 755 Pour Water|Medium
 - [x] 756 Pyramid Transition Matrix |Medium
