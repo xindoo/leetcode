@@ -542,7 +542,7 @@ leetcode刷题记录
 - [x] 554 Brick Wall |  Medium  
 - [ ] 555 Split Concatenated Strings |Medium  
 - [x] 556 Next Greater Element III  |  Medium  
-- [ ] 557 Reverse Words in a String III|  Easy    
+- [x] 557 Reverse Words in a String III|  Easy    
 - [x] 559 Maximum Depth of N-ary Tree | Easy
 - [ ] 560 Subarray Sum Equals K|  Medium  
 - [x] 561 Array Partition I|  Easy    
