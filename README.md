@@ -847,6 +847,7 @@ leetcode刷题记录
 - [x] 942 DI String Match | Easy
 - [x] 944 Delete Columns to Make Sorted | Medium
 - [x] 946 Validate Stack Sequences | Medium
+- [x] 947 Most Stones Removed with Same Row or Column | Medium
 - [x] 949 Largest Time for Given Digits | Easy
 - [x] 950 Reveal Cards In Increasing Order | Medium
 - [x] 951 Flip Equivalent Binary Trees | Medium
