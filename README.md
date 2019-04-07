@@ -883,3 +883,4 @@ leetcode刷题记录
 - [x] 1008 Construct Binary Search Tree from Preorder Traversal | Medium
 - [x] 1006 Clumsy Factorial | Medium
 - [x] 1017 Convert to Base -2 | Medium
+- [x] 1018 Binary Prefix Divisible By 5 | Easy
