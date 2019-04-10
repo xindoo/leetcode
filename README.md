@@ -881,7 +881,8 @@ leetcode刷题记录
 - [x] 1003 Check If Word Is Valid After Substitutions | Medium
 - [x] 1004 Max Consecutive Ones III | Medium
 - [x] 1005 Maximize Sum Of Array After K Negations | Easy
-- [x] 1008 Construct Binary Search Tree from Preorder Traversal | Medium
 - [x] 1006 Clumsy Factorial | Medium
+- [x] 1008 Construct Binary Search Tree from Preorder Traversal | Medium
+- [x] 1010 Pairs of Songs With Total Durations Divisible by 60 | Easy
 - [x] 1017 Convert to Base -2 | Medium
 - [x] 1018 Binary Prefix Divisible By 5 | Easy
