@@ -107,7 +107,7 @@ leetcode刷题记录
 - [x] 104 Maximum Depth of Binary Tree    Easy    
 - [x] 105 Construct Binary Tree from Preorder and Inorder Traversal|  Medium  
 - [ ] 106 Construct Binary Tree from Inorder and Postorder Traversal| Medium  
-- [ ] 107 Binary Tree Level Order Traversal II    Easy    
+- [x] 107 Binary Tree Level Order Traversal II   |  Easy    
 - [x] 108 Convert Sorted Array to Binary Search Tree| Easy    
 - [x] 109 Convert Sorted List to Binary Search Tree|  Medium  
 - [x] 110 Balanced Binary Tree    Easy    
