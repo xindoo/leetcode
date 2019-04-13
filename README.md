@@ -494,7 +494,7 @@ leetcode刷题记录
 - [x] 500 Keyboard Row    Easy    
 - [x] 501 Find Mode in Binary Search Tree|Easy    
 - [ ] 502 IPO|Hard    
-- [ ] 503 Next Greater Element II|Medium  
+- [x] 503 Next Greater Element II | Medium  
 - [ ] 504 Base 7| Easy    
 - [ ] 505 The Maze II  |  Medium  
 - [x] 506 Relative Ranks| Easy    
