@@ -488,7 +488,7 @@ leetcode刷题记录
 - [x] 493 Reverse Pairs|  Hard    
 - [x] 494 Target Sum| Medium  
 - [ ] 495 Teemo Attacking|Medium  
-- [ ] 496 Next Greater Element I| Easy    
+- [x] 496 Next Greater Element I| Easy    
 - [x] 498 Diagonal Traverse|  Medium  
 - [ ] 499 The Maze III  | Hard    
 - [x] 500 Keyboard Row    Easy    
