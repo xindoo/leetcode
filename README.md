@@ -633,7 +633,7 @@ leetcode刷题记录
 - [ ] 649 Dota2 Senate    Medium  
 - [x] 650 2 Keys Keyboard  |  Medium  
 - [ ] 651 4 Keys Keyboard  |  Medium  
-- [ ] 652 Find Duplicate Subtrees|Medium  
+- [x] 652 Find Duplicate Subtrees  |  Medium  
 - [x] 653 Two Sum IV - Input is a BST|Easy    
 - [x] 654 Maximum Binary Tree|Medium  
 - [ ] 655 Print Binary Tree |  Medium  
