@@ -691,7 +691,7 @@ leetcode刷题记录
 - [ ] 716 Max Stack|Hard
 - [ ] 717 1-bit and 2-bit Characters|Easy
 - [x] 718 Maximum Length of Repeated Subarray|Medium
-- [ ] 719 Find K-th Smallest Pair Distance|Hard
+- [x] 719 Find K-th Smallest Pair Distance|Hard
 - [x] 720 Longest Word in Dictionary | Easy
 - [ ] 721 Accounts Merge|Medium
 - [ ] 722 Remove Comments|Medium
