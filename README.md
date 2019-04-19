@@ -211,7 +211,7 @@ leetcode刷题记录
 - [x] 208 Implement Trie (Prefix Tree)    Medium  
 - [x] 209 Minimum Size Subarray Sum|  Medium  
 - [x] 210 Course Schedule II| Medium  
-- [ ] 211 Add and Search Word - Data structure design|Medium  
+- [x] 211 Add and Search Word - Data structure design|Medium  
 - [ ] 212 Word Search II| Hard    
 - [x] 213 House Robber II|Medium  
 - [ ] 214 Shortest Palindrome|Hard    
