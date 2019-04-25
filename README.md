@@ -889,3 +889,4 @@ leetcode刷题记录
 - [x] 1017 Convert to Base -2 | Medium
 - [x] 1018 Binary Prefix Divisible By 5 | Easy
 - [x] 1025 Divisor Game | Easy
+- [x] 1029 Two City Scheduling | Easy
