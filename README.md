@@ -400,7 +400,7 @@ leetcode刷题记录
 - [x] 397 Integer Replacement|Medium  
 - [x] 398 Random Pick Index|  Medium  
 - [ ] 399 Evaluate Division|  Medium  
-- [ ] 400 Nth Digit|  Easy    
+- [x] 400 Nth Digit |  Easy    
 - [x] 401 Binary Watch    Easy    
 - [x] 402 Remove K Digits|Medium  
 - [x] 403 Frog Jump|  Hard    
