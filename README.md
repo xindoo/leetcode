@@ -788,6 +788,7 @@ leetcode刷题记录
 - [x] 832 Flipping an Image | Easy
 - [x] 835 Image Overlap | Medium
 - [x] 836 Rectangle Overlap  | Easy 
+- [x] 837 New 21 Game | Medium
 - [x] 844 Backspace String Compare| Easy
 - [x] 845 Longest Mountain in Array | Medium
 - [x] 846 Hand of Straights | Medium
