@@ -760,7 +760,7 @@ leetcode刷题记录
 - [x] 783 Minimum Distance Between BST Nodes|Easy
 - [x] 784 Letter Case Permutation|Easy
 - [x] 785 Is Graph Bipartite?|Medium
-- [ ] 786 K-th Smallest Prime Fraction|Hard
+- [x] 786 K-th Smallest Prime Fraction | Hard
 - [x] 787 Cheapest Flights Within K Stops|Medium
 - [ ] 788 Rotated Digits    New Easy
 - [ ] 789 Escape The Ghosts    New Medium
