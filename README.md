@@ -423,7 +423,7 @@ leetcode刷题记录
 - [ ] 420 Strong Password Checker|Hard    
 - [x] 421 Maximum XOR of Two Numbers in an Array| Medium  
 - [ ] 422 Valid Word Square  |Easy    
-- [ ] 423 Reconstruct Original Digits from English    Medium  
+- [x] 423 Reconstruct Original Digits from English   |  Medium  
 - [ ] 424 Longest Repeating Character Replacement|Medium  
 - [ ] 425 Word Squares  | Hard    
 - [x] 430 Flatten a Multilevel Doubly Linked List  | Medium
