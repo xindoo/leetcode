@@ -593,8 +593,8 @@ leetcode刷题记录
 - [ ] 607 Sales Person  | Easy    
 - [ ] 608 Tree Node  |Medium  
 - [ ] 609 Find Duplicate File in System|  Medium  
-- [ ] 610 Triangle Judgement |Easy    
-- [ ] 611 Valid Triangle Number|  Medium  
+- [ ] 610 Triangle Judgement  |   Easy    
+- [x] 611 Valid Triangle Number  |  Medium  
 - [ ] 612 Shortest Distance in a Plane  | Medium  
 - [ ] 613 Shortest Distance in a Line  |  Easy    
 - [ ] 614 Second Degree Follower |Medium  
