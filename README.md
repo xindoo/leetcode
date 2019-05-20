@@ -890,6 +890,7 @@ leetcode刷题记录
 - [x] 1016 Binary String With Substrings Representing 1 To N | Medium
 - [x] 1017 Convert to Base -2 | Medium
 - [x] 1018 Binary Prefix Divisible By 5 | Easy
+- [x] 1022 Sum of Root To Leaf Binary Numbers  | Easy
 - [x] 1025 Divisor Game | Easy
 - [x] 1029 Two City Scheduling | Easy
 - [x] 1031 Maximum Sum of Two Non-Overlapping Subarrays | Medium
