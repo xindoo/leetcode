@@ -877,8 +877,9 @@ leetcode刷题记录
 - [x] 988 Smallest String Starting From Leaf | Medium
 - [x] 987 Vertical Order Traversal of a Binary Tree | Medium
 - [x] 993 Cousins in Binary Tree | Easy
+- [x] 994 Rotting Oranges  | Easy  |  BFS
 - [x] 995 Minimum Number of K Consecutive Bit Flips | Medium
-- [x] 997 Find the Town Judge | Easy
+- [x] 997 Find the Town Judge  |  Easy
 - [x] 998 Maximum Binary Tree II  | Medium
 - [x] 1002 Find Common Characters | Easy
 - [x] 1003 Check If Word Is Valid After Substitutions | Medium
@@ -897,4 +898,4 @@ leetcode刷题记录
 - [x] 1035 Uncrossed Lines | Medium
 - [x] 1041 Robot Bounded In Circle | Easy
 - [x] 1043 Partition Array for Maximum Sum | Medium  
-- [x] 1046 Last Stone Weight  | Easy
+- [x] 1046 Last Stone Weight  |  Easy  | PriorityQueue
