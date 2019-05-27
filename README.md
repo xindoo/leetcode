@@ -394,7 +394,7 @@ leetcode刷题记录
 - [ ] 391 Perfect Rectangle|  Hard    
 - [x] 392 Is Subsequence| Medium  
 - [ ] 393 UTF-8 Validation    Medium  
-- [ ] 394 Decode String|  Medium  
+- [x] 394 Decode String  |  Medium  |  Recursion
 - [x] 395 Longest Substring with At Least K Repeating Characters| Medium  
 - [x] 396 Rotate Function|Medium  
 - [x] 397 Integer Replacement|Medium  
