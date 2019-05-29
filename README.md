@@ -327,7 +327,7 @@ leetcode刷题记录
 - [x] 324 Wiggle Sort II| Medium  
 - [ ] 325 Maximum Size Subarray Sum Equals k |Medium  
 - [x] 326 Power of Three| Easy    
-- [ ] 327 Count of Range Sum| Hard    
+- [x] 327 Count of Range Sum  | Hard  | TreeMap    
 - [x] 328 Odd Even Linked List    Medium  
 - [ ] 329 Longest Increasing Path in a Matrix|Hard    
 - [x] 330 Patching Array| Hard    
