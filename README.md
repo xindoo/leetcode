@@ -778,7 +778,8 @@ leetcode刷题记录
 - [x] 807 Max Increase to Keep City Skyline  | Medium
 - [x] 808 Soup Servings | Medium
 - [x] 812 Largest Triangle Area | Easy
-- [x] 816 Ambiguous Coordinates | Medium
+- [x] 816 Ambiguous Coordinates | Medium  
+- [x] 817 Linked List Components | Medium | HashSet
 - [x] 819 Most Common Word | Easy
 - [x] 820 Short Encoding of Words | Medium
 - [x] 821 Shortest Distance to a Character | Easy
