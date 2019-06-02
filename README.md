@@ -903,3 +903,4 @@ leetcode刷题记录
 - [x] 1046 Last Stone Weight  |  Easy  | PriorityQueue  
 - [x] 1051 Height Checker | Easy 
 - [x] 1052 Grumpy Bookstore Owner | Medium 
+- [x] 1053. Previous Permutation With One Swap | Medium
