@@ -900,4 +900,5 @@ leetcode刷题记录
 - [x] 1035 Uncrossed Lines | Medium
 - [x] 1041 Robot Bounded In Circle | Easy
 - [x] 1043 Partition Array for Maximum Sum | Medium  
-- [x] 1046 Last Stone Weight  |  Easy  | PriorityQueue
+- [x] 1046 Last Stone Weight  |  Easy  | PriorityQueue  
+- [x] 1052 Grumpy Bookstore Owner | Medium 
