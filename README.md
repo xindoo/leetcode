@@ -832,6 +832,7 @@ leetcode刷题记录
 - [x] 904 Fruit Into Baskets | Medium
 - [x] 905 Sort Array By Parity | Easy
 - [x] 908 Smallest Range I | Easy
+- [x] 919 Complete Binary Tree Inserter | Tree
 - [x] 910 Smallest Range II | Medium
 - [x] 911 Online Election | Medium
 - [x] 914 X of a Kind in a Deck of Cards | Easy
