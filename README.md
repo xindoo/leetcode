@@ -907,3 +907,4 @@ leetcode刷题记录
 - [x] 1052 Grumpy Bookstore Owner | Medium 
 - [x] 1053 Previous Permutation With One Swap | Medium
 - [x] 1071 Greatest Common Divisor of Strings | Easy
+- [x] 5083 Occurrences After Bigram | Easy
