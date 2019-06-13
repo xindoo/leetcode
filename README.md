@@ -764,7 +764,7 @@ leetcode刷题记录
 - [x] 787 Cheapest Flights Within K Stops|Medium
 - [ ] 788 Rotated Digits    New Easy
 - [ ] 789 Escape The Ghosts    New Medium
-- [ ] 790 Domino and Tromino Tiling|Medium
+- [x] 790 Domino and Tromino Tiling | Medium | dp
 - [x] 791 Custom Sort String  |  Medium
 - [x] 792 Number of Matching Subsequences | Medium
 - [x] 793 Preimage Size of Factorial Zeroes Function | Hard
