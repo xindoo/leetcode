@@ -47,7 +47,7 @@ leetcode刷题记录
 - [x] 44  Wildcard Matching|  Hard    
 - [x] 45  Jump Game II    Hard    
 - [x] 46  Permutations    Medium  
-- [ ] 47  Permutations II|Medium  
+- [x] 47  Permutations II | Medium | dfs  
 - [x] 48  Rotate Image    Medium  
 - [x] 49  Group Anagrams| Medium  
 - [x] 50  Pow(x, n)|  Medium  
