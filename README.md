@@ -909,7 +909,8 @@ leetcode刷题记录
 - [x] 1071 Greatest Common Divisor of Strings | Easy 
 - [x] 1089 Duplicate Zeros | Easy
 - [x] 1090 Largest Values From Labels | Medium | greedy
-- [x] 1091 Shortest Path in Binary Matrix | Medium | BFS
+- [x] 1091 Shortest Path in Binary Matrix | Medium | BFS  
+- [x] 1092 Shortest Common Supersequence | Hard | dp 
 - [x] 5083 Occurrences After Bigram | Easy 
 - [x] 5084 Insufficient Nodes in Root to Leaf Paths | Medium | Tree
-- [x] 5087 Letter Tile Possibilities | Medium  
+- [x] 5087 Letter Tile Possibilities | Medium   
