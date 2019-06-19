@@ -907,6 +907,7 @@ leetcode刷题记录
 - [x] 1052 Grumpy Bookstore Owner | Medium 
 - [x] 1053 Previous Permutation With One Swap | Medium
 - [x] 1071 Greatest Common Divisor of Strings | Easy 
+- [x] 1081 Smallest Subsequence of Distinct Characters | Medium
 - [x] 1089 Duplicate Zeros | Easy
 - [x] 1090 Largest Values From Labels | Medium | greedy
 - [x] 1091 Shortest Path in Binary Matrix | Medium | BFS  
