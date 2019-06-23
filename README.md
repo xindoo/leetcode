@@ -700,7 +700,7 @@ leetcode刷题记录
 - [ ] 723 Candy Crush|Medium
 - [x] 724 Find Pivot Index|Easy
 - [ ] 725 Split Linked List in Parts|Medium
-- [ ] 726 Number of Atoms|Hard
+- [x] 726 Number of Atoms | Hard | Recursion
 - [ ] 727 Minimum Window Subsequence|Hard
 - [x] 728 Self Dividing Numbers|Easy
 - [x] 729 My Calendar I|Medium
