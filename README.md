@@ -612,7 +612,7 @@ leetcode刷题记录
 - [x] 627 Swap Salary|Easy    
 - [x] 628 Maximum Product of Three Numbers    Easy    
 - [ ] 629 K Inverse Pairs Array|  Hard    
-- [ ] 630 Course Schedule III|Hard    
+- [x] 630 Course Schedule III | Hard | Greedy    
 - [ ] 631 Design Excel Sum Formula  | Hard    
 - [ ] 632 Smallest Range| Hard    
 - [x] 633 Sum of Square Numbers|  Easy    
