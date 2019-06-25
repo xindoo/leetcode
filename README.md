@@ -84,7 +84,7 @@ leetcode刷题记录
 - [x] 81  Search in Rotated Sorted Array II|  Medium  
 - [x] 82  Remove Duplicates from Sorted List II|  Medium  
 - [x] 83  Remove Duplicates from Sorted List| Easy    
-- [ ] 84  Largest Rectangle in Histogram| Hard    
+- [x] 84  Largest Rectangle in Histogram | Hard | Stack    
 - [ ] 85  Maximal Rectangle|  Hard    
 - [x] 86  Partition List| Medium  
 - [ ] 87  Scramble String|Hard    
