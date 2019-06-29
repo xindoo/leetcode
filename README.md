@@ -143,7 +143,7 @@ leetcode刷题记录
 - [x] 140 Word Break II|  Hard    
 - [x] 141 Linked List Cycle|  Easy    
 - [x] 142 Linked List Cycle II    Medium  
-- [ ] 143 Reorder List    Medium  
+- [x] 143 Reorder List  |  Medium | LinkedList  
 - [x] 144 Binary Tree Preorder Traversal| Medium  
 - [x] 145 Binary Tree Postorder Traversal|Hard    
 - [x] 146 LRU Cache|  Hard    
