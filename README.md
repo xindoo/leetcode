@@ -173,7 +173,7 @@ leetcode刷题记录
 - [ ] 170 Two Sum III - Data structure design  |  Easy    
 - [x] 171 Excel Sheet Column Number|  Easy    
 - [x] 172 Factorial Trailing Zeroes|  Easy    
-- [ ] 173 Binary Search Tree Iterator|Medium  
+- [x] 173 Binary Search Tree Iterator | Medium  
 - [ ] 174 Dungeon Game    Hard    
 - [ ] 175 Combine Two Tables| Easy    
 - [x] 176 Second Highest Salary|  Easy    
