@@ -846,7 +846,8 @@ leetcode刷题记录
 - [x] 925 Long Pressed Name | Easy 
 - [x] 926 Flip String to Monotone Increasing | Medium
 - [x] 927 Three Equal Parts | Hard | 
-- [x] 930 Binary Subarrays With Sum | Medium
+- [x] 930 Binary Subarrays With Sum | Medium  
+- [x] 931 Minimum Falling Path Sum  | Medium | Dp
 - [x] 933 Number of Recent Calls | Easy
 - [x] 935 Knight Dialer | Medium
 - [x] 938 Range Sum of BST | Medium
