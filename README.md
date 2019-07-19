@@ -457,7 +457,7 @@ leetcode刷题记录
 - [ ] 460 LFU Cache|  Hard    
 - [x] 461 Hamming Distance    Easy    
 - [ ] 462 Minimum Moves to Equal Array Elements II    Medium  
-- [ ] 463 Island Perimeter    Easy    
+- [x] 463 Island Perimeter  |  Easy    
 - [x] 464 Can I Win   |  Medium  
 - [ ] 465 Optimal Account Balancing  |Hard    
 - [ ] 466 Count The Repetitions|  Hard    
