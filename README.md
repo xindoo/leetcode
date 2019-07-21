@@ -921,6 +921,7 @@ leetcode刷题记录
 - [x] 1110 Delete Nodes And Return Forest | Medium | Tree
 - [x] 1111 Maximum Nesting Depth of Two Valid Parentheses Strings | Medium 
 - [x] 1114 Print in Order | Easy| MultiThread
+- [x] 1128 Number of Equivalent Domino Pairs | Easy 
 - [x] 5083 Occurrences After Bigram | Easy 
 - [x] 5084 Insufficient Nodes in Root to Leaf Paths | Medium | Tree
 - [x] 5087 Letter Tile Possibilities | Medium   
