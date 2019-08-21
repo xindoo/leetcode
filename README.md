@@ -684,6 +684,7 @@ leetcode刷题记录
 - [ ] 699 Falling Squares|Hard    
 - [x] 703 Kth Largest Element in a Stream | Easy
 - [x] 704 Binary Search | Easy
+- [x] 705 Design HashSet | Easy
 - [x] 706. Design HashMap | Easy
 - [ ] 711 Number of Distinct Islands II  |Hard    
 - [ ] 712 Minimum ASCII Delete Sum for Two Strings    Medium  
